@@ -27,5 +27,9 @@ app.configure(function() {
     app.use(errorHandler); //Express knows a method with 4 params, is for handling errors
 });
 
+app.get('/', function(req, res) {
+    res.render('search');
+});
+
 app.listen(process.env.PORT, process.env.IP);
 console.log('Nama-biru running...');
