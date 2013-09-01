@@ -1,0 +1,18 @@
+{
+  "name": "nama-biru",
+  "version": "0.0.1",
+  "author" : "jason-d",
+  "description": "Beers that I have tried",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/jason-d/nama-biru.git"
+  },
+  "dependencies": {
+    "express": ">=3.0",
+    "jade": ">=0.33.0"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
