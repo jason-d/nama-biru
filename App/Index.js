@@ -1,5 +1,6 @@
 var express = require('express');
 var path = require('path');
+var controller = require('./Controller.js');
 
 var app = express();
 
@@ -22,6 +23,7 @@ app.configure(function() {
     app.set('view engine', 'jade');
     app.set('views', __dirname + '/Views');
     app.use(express.static(path.join(__dirname, 'Public')));
+    app.use(express.bodyParser());
     app.use(app.router); //Enable error handling
     app.use(notFoundHandler); //If not routes match, this will be called
     app.use(errorHandler); //Express knows a method with 4 params, is for handling errors
@@ -30,6 +32,8 @@ app.configure(function() {
 app.get('/', function(req, res) {
     res.render('search');
 });
+
+app.post('/search', controller.search);
 
 app.listen(process.env.PORT, process.env.IP);
 console.log('Nama-biru running...');

@@ -2,3 +2,21 @@ extends layout
 
 block content
     h1 Search
+    
+    form(id='form', method='post', action='/search')
+        label(for='name')
+        input(id='name', name='name') Name:
+        
+        button.btn.btn-success.text-center(type='submit') Search
+    
+    if (beers != null && beers.length > 0)
+        table.table.table-striped
+            thead
+                tr
+                    th Name
+                    th Brewery
+            tbody
+                each beer in beers
+                    tr
+                        td #{beer.name} 
+                        td #{beer.brewery.name}
