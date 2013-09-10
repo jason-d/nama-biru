@@ -14,9 +14,7 @@ block content
             thead
                 tr
                     th Name
-                    th Brewery
             tbody
                 each beer in beers
                     tr
-                        td #{beer.name} 
-                        td #{beer.brewery.name}
+                        td #{beer.brewery.name} #{beer.name}

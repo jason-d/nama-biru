@@ -1,3 +1,4 @@
+var util = require('util');
 var _ = require('underscore');
 var beers = require('./Beers.js').beers;
 
@@ -5,10 +6,17 @@ exports.findByName = function(name) {
     name = name.toLowerCase();
     
     var filtered = _.filter(beers, function(beer) {
-        return beer.name.toLowerCase().indexOf(name) > -1;
+        var text = util.format('%s %s', beer.brewery.name, beer.name)
+            .toLowerCase();
+        
+        return text.indexOf(name) > -1;
     });
     
-    return filtered;
+    var ordered = _.sortBy(filtered, function(beer) {
+        return util.format('%s %s', beer.brewery.name, beer.name);
+    });
+    
+    return ordered;
 };
 
 exports.findByBreweryName = function(breweryName) {
