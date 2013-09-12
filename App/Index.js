@@ -30,9 +30,10 @@ app.configure(function() {
 });
 
 app.get('/', function(req, res) {
-    res.render('search');
+    res.redirect('/search');
 });
 
+app.get('/search', controller.search);
 app.post('/search', controller.search);
 
 app.listen(process.env.PORT, process.env.IP);
