@@ -3,7 +3,7 @@ var path = require('path');
 var util = require('util');
 var byline = require('byline');
 
-var inputFilePath = path.join(__dirname, 'Beers.csv');
+var inputFilePath = path.join(__dirname, 'Beers.txt');
 var outputFilePath = path.join(__dirname, 'Beers.js');
 
 if (fs.existsSync(outputFilePath)) {
@@ -22,7 +22,7 @@ stream.on('end', function() {
 var first = true;
 
 stream.on('data', function(line) {
-    var fields = line.toString().split(',');
+    var fields = line.toString().split('\t');
     
     fs.appendFile(outputFilePath, util.format(
         '%s\t{\n\t\tid: %d,\n\t\tname: "%s",\n\t\tbrewery: {\n\t\t\tname: "%s",\n\t\t\tregion: "%s",\n\t\t\tcountry: "%s"\n\t\t},\n\t\tabv: %d,\n\t\tdate: "%s",\n\t\tstyle: "%s",\n\t\tdescription: "%s"\n\t}',
@@ -36,6 +36,7 @@ stream.on('data', function(line) {
 var clean = function(field) {
     field = field.replace('""', '');
     field = field.replace('""', '');
+    field = field.replace('"', '');
     field = field.replace('"', '');
     
     return field;

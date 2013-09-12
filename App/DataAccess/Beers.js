@@ -10,7 +10,7 @@ exports.beers = [
 		abv: 4.7,
 		date: "4/21/2011",
 		style: "Premium Bitter/ESB",
-		description: "Combined Harvest is a unique combination of brewing worts"
+		description: "Combined Harvest is a unique combination of brewing worts, or extracts from a variety of cereals. Most premium ales are brewed only using malted barley, but this multigrained beer has a unique multigrain blend of malted barley, oats, rye and wheat. Grainy tasting with a delightful floral start and finish."
 	},
 	{
 		id: 2,
@@ -36,7 +36,7 @@ exports.beers = [
 		abv: 5.2,
 		date: "4/23/2011",
 		style: "Premium Bitter/ESB",
-		description: "Hobgoblin is a powerful full-bodied copper red"
+		description: "Hobgoblin is a powerful full-bodied copper red, well-balanced brew. Strong in roasted malt with a moderate hoppy bitterness and slight fruity character that lasts through to the end."
 	},
 	{
 		id: 4,
@@ -62,7 +62,7 @@ exports.beers = [
 		abv: 4,
 		date: "4/23/2011",
 		style: "Bitter",
-		description: "A classic country ale from Dorset using a single hop variety for purity and character. First Gold are dwarf hops that grow in low hedgerows"
+		description: "A classic country ale from Dorset using a single hop variety for purity and character. First Gold are dwarf hops that grow in low hedgerows, more reminiscent of a vineyard, enabling a better quality harvest. A clean, fresh, distinctive ale with hints of orange and spice from the hop, perfect with traditional English roasts and pies."
 	},
 	{
 		id: 6,
@@ -75,7 +75,7 @@ exports.beers = [
 		abv: 4.2,
 		date: "4/24/2011",
 		style: "Bitter",
-		description: "Brewed to a recipe combining pale and crystal malts with choicest traditional ale hop varieties. The beer has a long"
+		description: "Brewed to a recipe combining pale and crystal malts with choicest traditional ale hop varieties. The beer has a long, deep, bitter-sweet finish with fruit and hop notes, a strong ale which is distinctively hoppy."
 	},
 	{
 		id: 7,
@@ -88,7 +88,7 @@ exports.beers = [
 		abv: 4.4,
 		date: "4/25/2011",
 		style: "Bitter",
-		description: "At the heart of many a countryside village can be found an inn. A place where locals go to relax after a long day. At one such inn"
+		description: "At the heart of many a countryside village can be found an inn. A place where locals go to relax after a long day. At one such inn, rumour has it that inquisitive ferrets would sneak to the back door to cheekily sample the local brew. A sweet nutty palate, hoppy aroma and a hint of Seville oranges, give this tawny amber ale its distinctive personality."
 	},
 	{
 		id: 8,
@@ -101,7 +101,7 @@ exports.beers = [
 		abv: 6.3,
 		date: "4/28/2011",
 		style: "English Strong Ale",
-		description: "Broadside was first brewed in 1972 to mark the three-hundred year anniversary of the Battle of Sole Bay. Brewed with Pale Ale malt and First Gold hops"
+		description: "Broadside was first brewed in 1972 to mark the three-hundred year anniversary of the Battle of Sole Bay. Brewed with Pale Ale malt and First Gold hops, Broadside is a dark ruby red beer, rich in fruitcake aromas, almonds and conserved fruit."
 	},
 	{
 		id: 9,
@@ -114,7 +114,7 @@ exports.beers = [
 		abv: 5,
 		date: "4/29/2011",
 		style: "Golden Ale/Blonde Ale",
-		description: "Amber beer with a touch of honey on the nose and palate. The sweetness is balanced by a healthy dose of hops to provide the bitterness that gives a wonderfully delicate flavour. Pale Ale and Crystal malts and British Fuggle and Golding hops"
+		description: "Amber beer with a touch of honey on the nose and palate. The sweetness is balanced by a healthy dose of hops to provide the bitterness that gives a wonderfully delicate flavour. Pale Ale and Crystal malts and British Fuggle and Golding hops, together with South American honey, combine perfectly to create this delicious golden ale with a superb honey aroma."
 	},
 	{
 		id: 10,
@@ -140,7 +140,7 @@ exports.beers = [
 		abv: 5.2,
 		date: "5/1/2011",
 		style: "Premium Bitter/ESB",
-		description: "Cask version was first brewed in 1979 by Morland Brewery to celebrate the 50th anniversary of the MG car factory in Abingdon. The name comes from the MG factory’s works car - the gold speckled MG Featherweight Fabric Saloon"
+		description: "Cask version was first brewed in 1979 by Morland Brewery to celebrate the 50th anniversary of the MG car factory in Abingdon. The name comes from the MG factory’s works car - the gold speckled MG Featherweight Fabric Saloon, affectionately known as the Ol’ Speckl’d ’Un."
 	},
 	{
 		id: 12,
@@ -153,7 +153,7 @@ exports.beers = [
 		abv: 5.4,
 		date: "5/2/2011",
 		style: "Premium Bitter/ESB",
-		description: "Bishops Finger holds EU Protected Geographical Indication"
+		description: "Bishops Finger holds EU Protected Geographical Indication, recognising its unique provenance. Uniquely, it is brewed to a charter which states it can only be brewed by the head brewer on a Friday and that it must be brewed using 100% natural ingredients, Kentish hops and barley, and the brewery’s own artesian mineral water."
 	},
 	{
 		id: 13,
@@ -166,7 +166,7 @@ exports.beers = [
 		abv: 4,
 		date: "5/6/2011",
 		style: "Bitter",
-		description: "Heligan Honey Ale is a light refreshing bitter"
+		description: "Heligan Honey Ale is a light refreshing bitter, pale amber in colour with distinct hoppy overtones and the subtle addition of real Cornish honey. "
 	},
 	{
 		id: 14,
@@ -179,7 +179,7 @@ exports.beers = [
 		abv: 4.8,
 		date: "5/7/2011",
 		style: "Premium Bitter/ESB",
-		description: "Originally brewed at Alton Brewery in Hampshire in 1903 for the Courage directors; spare beer was sold as Alton IPA"
+		description: "Originally brewed at Alton Brewery in Hampshire in 1903 for the Courage directors; spare beer was sold as Alton IPA, which acquired the nickname of Director’s Bitter."
 	},
 	{
 		id: 15,
@@ -192,7 +192,7 @@ exports.beers = [
 		abv: 5.6,
 		date: "5/7/2011",
 		style: "Old Ale",
-		description: "Its initial sweetness is"
+		description: "Its initial sweetness is, apparently, of roasted and vinous notes with a subtle bitter aftertaste. Strong fruitiness, often with banana notes standing out, is derived from Old Peculier’s fermentation process."
 	},
 	{
 		id: 16,
@@ -205,7 +205,7 @@ exports.beers = [
 		abv: 5,
 		date: "5/8/2011",
 		style: "Premium Bitter/ESB",
-		description: "This premium bottle-conditioned ale has been uniquely brewed using our own Cornish Gold malt. Locally grown barley is traditionally malted using a special kilning process which develops a deeper intensity of colour and flavour than ordinary barley malt. Blended with both Styrian Golding and Cascade hops"
+		description: "This premium bottle-conditioned ale has been uniquely brewed using our own Cornish Gold malt. Locally grown barley is traditionally malted using a special kilning process which develops a deeper intensity of colour and flavour than ordinary barley malt. Blended with both Styrian Golding and Cascade hops, the result is a deep bronze ale with a delicious rich biscuit flavour and a wonderful spicy aroma."
 	},
 	{
 		id: 17,
@@ -218,7 +218,7 @@ exports.beers = [
 		abv: 4.5,
 		date: "5/9/2011",
 		style: "Golden Ale/Blonde Ale",
-		description: "This delicious"
+		description: "This delicious, premium blonde ale from Fuller’s is the perfect combination of unbeatable flavour and refreshment. Brewed using a unique blend of malted barley and wheat for a delicious malty taste bursting with rich, biscuity flavours, Liberty hops are then added for a distinctive zesty character and fruity bite, whilst Saaz hops add a gentle bitter taste for a clean, refreshing finish."
 	},
 	{
 		id: 18,
@@ -231,7 +231,7 @@ exports.beers = [
 		abv: 5.7,
 		date: "5/10/2011",
 		style: "Indian Pale Ale",
-		description: "Old Empire is brewed using Optic malt"
+		description: "Old Empire is brewed using Optic malt, a subtle and paler grain that will allow other flavours to come through on the palate. Goldings and Fuggles hops are added to this brew, which is then late hopped with the American Cascade variety for extra hop strength."
 	},
 	{
 		id: 19,
@@ -244,7 +244,7 @@ exports.beers = [
 		abv: 5,
 		date: "5/13/2011",
 		style: "Premium Bitter/ESB",
-		description: "Traditional premium ale"
+		description: "Traditional premium ale, light golden in colour. Noticeable floral dry hop aroma balanced with biscuity and fruity notes. Full bodied with a medium bitterness and a rounded, smooth, hoppy flavour. Hints of melon and pear. A clean finish with some hoppy linger."
 	},
 	{
 		id: 20,
@@ -257,7 +257,7 @@ exports.beers = [
 		abv: 5,
 		date: "5/14/2011",
 		style: "Golden Ale/Blonde Ale",
-		description: "The light"
+		description: "The light, refreshing character of our award-winning golden ale is distinguished by its subtle elderflower aroma, reminiscent of a summer’s evening. Champion is particularly rewarding when served chilled. On a balmy evening in Stanpit Marsh, a cool breeze blows and a calm encompasses the vast reserve. "
 	},
 	{
 		id: 21,
@@ -270,7 +270,7 @@ exports.beers = [
 		abv: 4.4,
 		date: "5/15/2011",
 		style: "Bitter",
-		description: "Brewed with many generous handfuls of choice Golding hops"
+		description: "Brewed with many generous handfuls of choice Golding hops, it is full flavoured ale with a rich fruit nose. The bittersweet malty taste is followed by an uncompromising long, dry and bitter finish. This beer was the first, most successful, of all of our bottled beers."
 	},
 	{
 		id: 22,
@@ -283,7 +283,7 @@ exports.beers = [
 		abv: 4.2,
 		date: "5/18/2011",
 		style: "Bitter",
-		description: "St. Austell’s most sought after ale is available as a 500ml bottled beer. It’s perfectly balanced flavour retains much of the cask versions unique hoppy palate and citrusy nose. An ale to savour and a real Cornish ambassador. Rapidly becoming “the” Cornish Premium Ale"
+		description: "St. Austell’s most sought after ale is available as a 500ml bottled beer. It’s perfectly balanced flavour retains much of the cask versions unique hoppy palate and citrusy nose. An ale to savour and a real Cornish ambassador. Rapidly becoming “the” Cornish Premium Ale, this great beer can now be enjoyed outside of the county of Cornwall."
 	},
 	{
 		id: 23,
@@ -296,7 +296,7 @@ exports.beers = [
 		abv: 4.7,
 		date: "5/20/2011",
 		style: "Premium Bitter/ESB",
-		description: "Bombardier is the definitive English Bitter"
+		description: "Bombardier is the definitive English Bitter, perfectly balanced with a dry personality."
 	},
 	{
 		id: 24,
@@ -309,7 +309,7 @@ exports.beers = [
 		abv: 6.5,
 		date: "5/21/2011",
 		style: "English Strong Ale",
-		description: "Crafted by the master brewer of ’Old Speckled Hen’"
+		description: "Crafted by the master brewer of ’Old Speckled Hen’, this strong fine ale combines a distinctive malty taste with a satisfying smooth raisin finish. Brewed with a blend of 5x this is a delicious dark amber ale."
 	},
 	{
 		id: 25,
@@ -322,7 +322,7 @@ exports.beers = [
 		abv: 4.5,
 		date: "5/22/2011",
 		style: "Golden Ale/Blonde Ale",
-		description: "A strong"
+		description: "A strong, clean tasting Golden Beer that's not too sweet and with a fresh flowery aroma."
 	},
 	{
 		id: 26,
@@ -335,7 +335,7 @@ exports.beers = [
 		abv: 5,
 		date: "5/22/2011",
 		style: "Premium Bitter/ESB",
-		description: "Amber beer with a full"
+		description: "Amber beer with a full, malty flavor"
 	},
 	{
 		id: 27,
@@ -348,7 +348,7 @@ exports.beers = [
 		abv: 4.7,
 		date: "5/25/2011",
 		style: "Premium Bitter/ESB",
-		description: "London Pride is a smooth and astonishingly complex beer"
+		description: "London Pride is a smooth and astonishingly complex beer, which has a distinctive malty base complemented by a rich balance of well developed hop flavours from the Target, Challenger and Northdown varieties in the brew."
 	},
 	{
 		id: 28,
@@ -374,7 +374,7 @@ exports.beers = [
 		abv: 5,
 		date: "5/28/2011",
 		style: "Premium Bitter/ESB",
-		description: "A cask-conditioned beer brewed using a unique strain of yeast. The only beer brewed through the Burton Union Systems and then fermented in wood. A fine combination of mineral enriched Burton Water"
+		description: "A cask-conditioned beer brewed using a unique strain of yeast. The only beer brewed through the Burton Union Systems and then fermented in wood. A fine combination of mineral enriched Burton Water, fruity Fuggles hops married with bitter and spicy Golding hops."
 	},
 	{
 		id: 30,
@@ -387,7 +387,7 @@ exports.beers = [
 		abv: 4,
 		date: "5/28/2011",
 		style: "Spice/Herb/Vegatable",
-		description: "Root beer has a tradition of being different"
+		description: "Root beer has a tradition of being different, with no one brand tasting the same. Frank’s Alcoholic Root Beer has been crafted by our master brewer using the finest barley malt, hops, yeast, wintergreen oil, liquorice root, aniseed and a touch of vanilla. We hope you enjoy it."
 	},
 	{
 		id: 31,
@@ -400,7 +400,7 @@ exports.beers = [
 		abv: 7.3,
 		date: "5/29/2011",
 		style: "Scotch Ale",
-		description: "A dark ruby ale with a sweet"
+		description: "A dark ruby ale with a sweet, fruity, rich flavor"
 	},
 	{
 		id: 32,
@@ -413,7 +413,7 @@ exports.beers = [
 		abv: 4.1,
 		date: "5/30/2011",
 		style: "Bitter",
-		description: "Brewed as one of the celebratory beers for Thwaites bi-centenary. Named after Alfred Wainwright"
+		description: "Brewed as one of the celebratory beers for Thwaites bi-centenary. Named after Alfred Wainwright, the renowned Lakeland author who was born in Blackburn in 1907. A refreshing straw-coloured beer with soft fruit flavours and a hint of sweetness from the fine malt. "
 	},
 	{
 		id: 33,
@@ -439,7 +439,7 @@ exports.beers = [
 		abv: 5.9,
 		date: "6/3/2011",
 		style: "Premium Bitter/ESB",
-		description: "ESB has a wonderful rich mahogany appearance. Taking in the nose"
+		description: "ESB has a wonderful rich mahogany appearance. Taking in the nose, the beer is bursting with cherry and orange, balanced by soft malty toffee and caramel notes. The flavour delivers everything you would expect from such a full-bodied ale. The unique blend of Northdown, Target, Challenger and Goldings hops imparts grassy, peppery notes on the tongue along with intense citrus fruit characters of grapefruits, oranges and lemons. The blend of Pale Ale and Crystal malts in the brew give a biscuity, toffee element to the beer. A smooth, mellow bitterness lingers on the palate to give a superbly satisfying finish."
 	},
 	{
 		id: 35,
@@ -452,7 +452,7 @@ exports.beers = [
 		abv: 4.6,
 		date: "6/4/2011",
 		style: "Bitter",
-		description: "English Target hops give this beer a remarkable aroma. Late hopping with Goldings and fermentation by the Brakspear yeast creates a remarkable zesty aroma"
+		description: "English Target hops give this beer a remarkable aroma. Late hopping with Goldings and fermentation by the Brakspear yeast creates a remarkable zesty aroma, a full fruity flavour and a golden colour. All Hops and Barley used in this beer are organically grown and produced."
 	},
 	{
 		id: 36,
@@ -465,7 +465,7 @@ exports.beers = [
 		abv: 4.1,
 		date: "6/5/2011",
 		style: "Mild Ale",
-		description: "A blend of dark and chocolate malts"
+		description: "A blend of dark and chocolate malts, gives this dark mild a full flavour. The beer has a delicate hop and chocolate aroma while the palate starts malty with a slight nuttiness, but then gives way to a light dry finish."
 	},
 	{
 		id: 37,
@@ -478,7 +478,7 @@ exports.beers = [
 		abv: 4.9,
 		date: "6/8/2011",
 		style: "Premium Bitter/ESB",
-		description: "A golden beer with a deep bitter-sweet finish. The name refers both to the abv"
+		description: "A golden beer with a deep bitter-sweet finish. The name refers both to the abv, and, by reference to the Californian goldrush of 1849, to the golden colour. "
 	},
 	{
 		id: 38,
@@ -491,7 +491,7 @@ exports.beers = [
 		abv: 3.6,
 		date: "6/8/2011",
 		style: "Bitter",
-		description: "A perfectly balanced ale"
+		description: "A perfectly balanced ale, characterised by its fresh hoppy taste and a clean bitter finish. The Official Beer of England Rugby, Greene King IPA is now the fastest selling cask ale in the UK."
 	},
 	{
 		id: 39,
@@ -504,7 +504,7 @@ exports.beers = [
 		abv: 4.7,
 		date: "6/10/2011",
 		style: "Premium Bitter/ESB",
-		description: "Golden Sheep is a full flavoured ale with a dry and refreshing bitterness"
+		description: "Golden Sheep is a full flavoured ale with a dry and refreshing bitterness, developed with a light, citrus fruit flavour. Brewed using time honoured methods and fermented in our Yorkshire Square vessels."
 	},
 	{
 		id: 40,
@@ -517,7 +517,7 @@ exports.beers = [
 		abv: 4,
 		date: "6/11/2011",
 		style: "Spice/Herb/Vegatable",
-		description: "A ginger beer with a deep"
+		description: "A ginger beer with a deep, deliciously spicy flavor. Conatains artificial sweetners."
 	},
 	{
 		id: 41,
@@ -530,7 +530,7 @@ exports.beers = [
 		abv: 4.7,
 		date: "6/12/2011",
 		style: "Bitter",
-		description: "Inspired by the words of William Blake’s Jerusalem"
+		description: "Inspired by the words of William Blake’s Jerusalem, Wells Burning Gold is a tribute to all that is celebrated in English ale. Our Master Brewer insists on the ’Holy’ brewing method - fermenting for a full 7 days."
 	},
 	{
 		id: 42,
@@ -556,7 +556,7 @@ exports.beers = [
 		abv: 3.8,
 		date: "6/17/2011",
 		style: "Bitter",
-		description: "Crafted with the finest ingredients to deliver a really easy drinking belter of a beer"
+		description: "Crafted with the finest ingredients to deliver a really easy drinking belter of a beer, with malty, hoppy flavours and clean finish that’s built not to last. "
 	},
 	{
 		id: 44,
@@ -582,7 +582,7 @@ exports.beers = [
 		abv: 4.2,
 		date: "6/25/2011",
 		style: "Bitter",
-		description: "The finest Maris Otter barley from Lincolnshire and Yorkshire is delicately malted then roasted over traditional kilns"
+		description: "The finest Maris Otter barley from Lincolnshire and Yorkshire is delicately malted then roasted over traditional kilns, before being skillfully blended with only hand picked female hops. Brewed by Batemans in their 130 year old Lincolshire family brewery."
 	},
 	{
 		id: 46,
@@ -595,7 +595,7 @@ exports.beers = [
 		abv: 4.2,
 		date: "6/25/2011",
 		style: "Bitter",
-		description: "The Beer to slay a mighty thirst. A full bodied & robust ruby bitter brewed with Pale & Crystal Malts"
+		description: "The Beer to slay a mighty thirst. A full bodied & robust ruby bitter brewed with Pale & Crystal Malts, with a rich malty taste & a hefy wack of Fuggles & Goldings hops, just the beer to slay that thirst..."
 	},
 	{
 		id: 47,
@@ -608,7 +608,7 @@ exports.beers = [
 		abv: 4.5,
 		date: "6/26/2011",
 		style: "Golden Ale/Blonde Ale",
-		description: "An award-winning 4.5% ABV premium ale"
+		description: "An award-winning 4.5% ABV premium ale, well balanced with distinctive bitterness and a delicate floral peach and melon aroma."
 	},
 	{
 		id: 48,
@@ -621,7 +621,7 @@ exports.beers = [
 		abv: 5,
 		date: "6/28/2011",
 		style: "Premium Bitter/ESB",
-		description: "Our most famous and notorious ale. HSD is a full-bodied strong Cornish ale brimming with a kaleidoscope of flavours. Brewed with plenty of malt and lashings of English Fuggles and Golding hops"
+		description: "Our most famous and notorious ale. HSD is a full-bodied strong Cornish ale brimming with a kaleidoscope of flavours. Brewed with plenty of malt and lashings of English Fuggles and Golding hops, HSD is truly a classic ale of considerable depth and complexity."
 	},
 	{
 		id: 49,
@@ -634,7 +634,7 @@ exports.beers = [
 		abv: 4.1,
 		date: "6/30/2011",
 		style: "Bitter",
-		description: "Landlord is the classic pale ale"
+		description: "Landlord is the classic pale ale, brewed in the traditional way from Knowle Spring water, using only the finest Golden Promise malted barley and best possible leaf hops."
 	},
 	{
 		id: 50,
@@ -660,7 +660,7 @@ exports.beers = [
 		abv: 4.6,
 		date: "7/2/2011",
 		style: "Golden Ale/Blonde Ale",
-		description: "This fresh"
+		description: "This fresh, light, award-winning beer delights with its grassy, crisp taste and zippy floral aroma. Flavours of white grape and melon develop to reveal a subtle bitterness... a taste that is quintessentially English. Perfect with chicken and pasta - and exquisite with fresh Dorset fly-fished trout."
 	},
 	{
 		id: 52,
@@ -686,7 +686,7 @@ exports.beers = [
 		abv: 4,
 		date: "7/5/2011",
 		style: "Bitter",
-		description: "A pale amber"
+		description: "A pale amber, mid-strength beer with distinct hoppy overtones. Northdown and Styrian Goldings hops."
 	},
 	{
 		id: 54,
@@ -699,7 +699,7 @@ exports.beers = [
 		abv: 5.2,
 		date: "7/6/2011",
 		style: "Premium Bitter/ESB",
-		description: "With the hot summer sun beating down"
+		description: "With the hot summer sun beating down, the patient fly-fishermen of the Dorset Stour await their catch. These ’Flyers’ are celebrated in this warming ale with ginger overtones, rumoured to be originally included to remedy the bites of the infamous Blandford Fly. The rounded sweetness of this medium-bodied brew makes it an ideal and refreshing accompaniment to a hot lamb biryani or spicy crispy chilli beef."
 	},
 	{
 		id: 55,
@@ -725,7 +725,7 @@ exports.beers = [
 		abv: 4.5,
 		date: "7/20/2011",
 		style: "Golden Ale/Blonde Ale",
-		description: "A pale golden potion with delicate red hues"
+		description: "A pale golden potion with delicate red hues, WychCraft has a heady burst of fresh citrus aroma derived from three infusions of Styrian golding hops. A sprig of gentle warming malty flavour finishes with a dry biscuit note and a counterpoise of bitterness."
 	},
 	{
 		id: 57,
@@ -738,7 +738,7 @@ exports.beers = [
 		abv: 4.8,
 		date: "7/21/2011",
 		style: "Premium Bitter/ESB",
-		description: "Superb strong bitter with a complex palate"
+		description: "Superb strong bitter with a complex palate, consisting of a delicate aroma of hops delightfully balanced by a prominent malty character."
 	},
 	{
 		id: 58,
@@ -751,7 +751,7 @@ exports.beers = [
 		abv: 4,
 		date: "7/23/2011",
 		style: "Spice/Herb/Vegatable",
-		description: "Zinging with naturally sourced premium ginger flavours blended from root gingers from around the world to produce a rich deep flavour with delicate spicy notes and a satisfyingly warming character"
+		description: "Zinging with naturally sourced premium ginger flavours blended from root gingers from around the world to produce a rich deep flavour with delicate spicy notes and a satisfyingly warming character, leading to a gingery spicy finish. Derived from pure, natural, ginger sources, selected for their taste and full flavour, soothing, refreshingly different and comforting in its warmth, this is a ginger beer for the ginger fan who is looking for satisfaction, its complexity will always provide complete enjoyment to ginger lovers and a new flavour experience for anyone looking for something different."
 	},
 	{
 		id: 59,
@@ -777,7 +777,7 @@ exports.beers = [
 		abv: 4.5,
 		date: "7/26/2011",
 		style: "Premium Bitter/ESB",
-		description: "Late Red is a complex and richly flavoured Autumn Ale. Slightly red in colour"
+		description: "Late Red is a complex and richly flavoured Autumn Ale. Slightly red in colour, this ale is a balance between rich, dark malt flavors and a strong and robust hoppiness."
 	},
 	{
 		id: 61,
@@ -803,7 +803,7 @@ exports.beers = [
 		abv: 7.3,
 		date: "8/10/2011",
 		style: "Heller Bock",
-		description: "This bock beer style was so popular the brewmaster was lured away by the Bavarians to replicate the style. Gordon Biersch Maibock is rich and full-bodied"
+		description: "This bock beer style was so popular the brewmaster was lured away by the Bavarians to replicate the style. Gordon Biersch Maibock is rich and full-bodied, emphasizing dark roasted, caramelized Munich malt and brewed in accordance to the German Purity Law of 1516."
 	},
 	{
 		id: 63,
@@ -816,7 +816,7 @@ exports.beers = [
 		abv: 5.8,
 		date: "8/11/2011",
 		style: "Irish Ale",
-		description: "Brewed with a half ton of caramelized malts"
+		description: "Brewed with a half ton of caramelized malts, this bold red ale has caramel and toffee flavors, notes of dried raisins and currants, and a slightly sweet finish."
 	},
 	{
 		id: 64,
@@ -829,7 +829,7 @@ exports.beers = [
 		abv: 5.7,
 		date: "8/11/2011",
 		style: "Oktoberfest/Märzen",
-		description: "Gordon Biersch Märzen accentuates the flavors of the dark roasted imported malted barley and exhibits a caramel malt aftertaste"
+		description: "Gordon Biersch Märzen accentuates the flavors of the dark roasted imported malted barley and exhibits a caramel malt aftertaste, while downplaying the hop level."
 	},
 	{
 		id: 65,
@@ -842,7 +842,7 @@ exports.beers = [
 		abv: 5.6,
 		date: "8/11/2011",
 		style: "Bohemian Pilsener",
-		description: "A Bohemian-style Pilsner"
+		description: "A Bohemian-style Pilsner, golden-hued, medium-bodied, accented with a spicy character."
 	},
 	{
 		id: 66,
@@ -855,7 +855,7 @@ exports.beers = [
 		abv: 4.6,
 		date: "8/12/2011",
 		style: "Premium Lager",
-		description: "Longboard Island Lager is a smooth refreshing lager fermented and aged for weeks at cold temperatures to yield its exceptionally smooth flavor. A delicate"
+		description: "Longboard Island Lager is a smooth refreshing lager fermented and aged for weeks at cold temperatures to yield its exceptionally smooth flavor. A delicate, slightly spicy hop aroma complements the malty body of this beer."
 	},
 	{
 		id: 67,
@@ -868,7 +868,7 @@ exports.beers = [
 		abv: 4.4,
 		date: "8/13/2011",
 		style: "Dunkel",
-		description: "Is a classic Czech tmave (dark) beer with a sweet malty"
+		description: "Is a classic Czech tmave (dark) beer with a sweet malty, coffee-like accent. Sweet malts are to the fore on the palate with a hint of drying sensation and a degree of fruitiness on the very lightly hopped finish."
 	},
 	{
 		id: 68,
@@ -881,7 +881,7 @@ exports.beers = [
 		abv: 5.5,
 		date: "8/14/2011",
 		style: "Fruit Beer",
-		description: "Samuel Adams® Blackberry Witbier is brewed with two-row Harrington and Metcalfe malted barley and generous portions of malted wheat. The malted barley and malted wheat provide the beer with its light body while the coriander and orange give the beer its citrus like aromas. We’ve also added some Oregon Marion blackberries"
+		description: "Samuel Adams® Blackberry Witbier is brewed with two-row Harrington and Metcalfe malted barley and generous portions of malted wheat. The malted barley and malted wheat provide the beer with its light body while the coriander and orange give the beer its citrus like aromas. We’ve also added some Oregon Marion blackberries, to give the brew a perfect balance between its subtly sweet and tart flavors"
 	},
 	{
 		id: 69,
@@ -894,7 +894,7 @@ exports.beers = [
 		abv: 5.2,
 		date: "8/23/2011",
 		style: "Wheat Ale",
-		description: "This ale is brewed with clover honey"
+		description: "This ale is brewed with clover honey, orange peel, pale malt and malted white wheat. Compliment any summer gathering with this crisp, refreshing ale."
 	},
 	{
 		id: 70,
@@ -907,7 +907,7 @@ exports.beers = [
 		abv: 5.2,
 		date: "8/25/2011",
 		style: "Porter",
-		description: "With a dark beer as our first and flagship brand"
+		description: "With a dark beer as our first and flagship brand, Black Butte defined Deschutes as a radical player. A slight hop bitterness up front enhances the distinctive chocolate and roasted finish. It’s prized for its creamy mouthfeel and intense complex flavors."
 	},
 	{
 		id: 71,
@@ -920,7 +920,7 @@ exports.beers = [
 		abv: 6,
 		date: "8/27/2011",
 		style: "Premium Bitter/ESB",
-		description: "Bitch Creek perfectly balances big malt sweetness and robust hop flavor for a full bodied"
+		description: "Bitch Creek perfectly balances big malt sweetness and robust hop flavor for a full bodied, satisfying mahogany ale. Like the stream for which it is named, our Bitch Creek ESB is full of character... Not for the timid."
 	},
 	{
 		id: 72,
@@ -933,7 +933,7 @@ exports.beers = [
 		abv: 4.5,
 		date: "8/28/2011",
 		style: "Amber Ale",
-		description: "Harkening back to old world brewing styles"
+		description: "Harkening back to old world brewing styles, Cable Car handcrafts each and every small batch. This Amber Ale is 100% all-malt brewed in the Marzen Style. Rich and malty, it’s balanced with mild hop and smooth flavor. Enjoy the ride!"
 	},
 	{
 		id: 73,
@@ -959,7 +959,7 @@ exports.beers = [
 		abv: 4.9,
 		date: "8/30/2011",
 		style: "California Common",
-		description: "The deep amber color"
+		description: "The deep amber color, thick creamy head, and rich flavor all testify to our traditional brewing methods. Anchor Steam is unique, for our brewing process has evolved over many decades and is like no other in the world."
 	},
 	{
 		id: 75,
@@ -985,7 +985,7 @@ exports.beers = [
 		abv: 5.6,
 		date: "9/3/2011",
 		style: "Traditional Ale",
-		description: "An ale with a surprisingly bright taste and a dry"
+		description: "An ale with a surprisingly bright taste and a dry, chocolately finish"
 	},
 	{
 		id: 77,
@@ -998,7 +998,7 @@ exports.beers = [
 		abv: 5,
 		date: "9/4/2011",
 		style: "Altbier",
-		description: "Richly malty and long on the palate"
+		description: "Richly malty and long on the palate, with just enough hop backing to make this beautiful amber colored alt style beer notably well-balanced"
 	},
 	{
 		id: 78,
@@ -1011,7 +1011,7 @@ exports.beers = [
 		abv: 7,
 		date: "9/4/2011",
 		style: "Heller Bock",
-		description: "A moderately hopped beer with a rich"
+		description: "A moderately hopped beer with a rich, malty flavor"
 	},
 	{
 		id: 79,
@@ -1024,7 +1024,7 @@ exports.beers = [
 		abv: 5,
 		date: "9/5/2011",
 		style: "Brown Ale",
-		description: "A smooth"
+		description: "A smooth, full-bodied nut brown ale, lightly hopped with a hint of roasted and crystal malts"
 	},
 	{
 		id: 80,
@@ -1037,7 +1037,7 @@ exports.beers = [
 		abv: 5.3,
 		date: "9/6/2011",
 		style: "Fruit Beer",
-		description: "Combines Michigan cherries with a generous portion of wheat malt to produce a bright"
+		description: "Combines Michigan cherries with a generous portion of wheat malt to produce a bright, lively ale with a crisp finish"
 	},
 	{
 		id: 81,
@@ -1076,7 +1076,7 @@ exports.beers = [
 		abv: 5.2,
 		date: "9/14/2011",
 		style: "Amber Ale",
-		description: "A beer with toasty"
+		description: "A beer with toasty, biscuit-like malt flavors coasting in equilibrium with hoppy freshness"
 	},
 	{
 		id: 84,
@@ -1115,7 +1115,7 @@ exports.beers = [
 		abv: 9,
 		date: "9/24/2011",
 		style: "Scotch Ale",
-		description: "Malty"
+		description: "Malty, and much more than a wee delicious"
 	},
 	{
 		id: 87,
@@ -1128,7 +1128,7 @@ exports.beers = [
 		abv: 4.2,
 		date: "9/25/2011",
 		style: "Amber Lager/Vienna",
-		description: "With the first batch of his namesake Amber"
+		description: "With the first batch of his namesake Amber, Karl shared a beer and a passion that changed brewing in San Diego. Imported Munich malts give our original flagship the deep bronze color and crisp toasted malt flavors of a Vienna-style lager, while Cascade hops and our proprietary yeast strain lend a smooth body and clean finish. Brewed in small batches since 1989, Karl Strauss Amber remains San Diego’s original session beer."
 	},
 	{
 		id: 88,
@@ -1154,7 +1154,7 @@ exports.beers = [
 		abv: 4.9,
 		date: "10/8/2011",
 		style: "Classic German Pilsener",
-		description: "Trumer Pils' aromatic nose"
+		description: "Trumer Pils' aromatic nose, vigorous carbonation, and dry finish will satisfy the most demanding palate"
 	},
 	{
 		id: 90,
@@ -1167,7 +1167,7 @@ exports.beers = [
 		abv: 5.6,
 		date: "10/12/2011",
 		style: "Porter",
-		description: "The deep black color"
+		description: "The deep black color, the thick, creamy head and the intensely rich flavor of Anchor Porter, made in San Francisco since 1974, have earned this delicious and unique brew a worldwide reputation for outstanding quality"
 	},
 	{
 		id: 91,
@@ -1193,7 +1193,7 @@ exports.beers = [
 		abv: 7.2,
 		date: "10/21/2011",
 		style: "Sweet Stout",
-		description: "A rich complex Oatmeal Staout with just enough hops to balance the copius quantities of dark roasted malts"
+		description: "A rich complex Oatmeal Staout with just enough hops to balance the copius quantities of dark roasted malts, and the addition of oatmeal for a creamy smooth drinkability"
 	},
 	{
 		id: 93,
@@ -1206,7 +1206,7 @@ exports.beers = [
 		abv: 4.9,
 		date: "10/21/2011",
 		style: "Pale Lager",
-		description: "Crisp"
+		description: "Crisp, clear and refreshing, Sapporo Premium Beer has been made to the highest standards of Japan's oldest brewery"
 	},
 	{
 		id: 94,
@@ -1232,7 +1232,7 @@ exports.beers = [
 		abv: 6.5,
 		date: "10/28/2011",
 		style: "Belgian Ale",
-		description: "Rare Vos is flemmish for Sly Fox"
+		description: "Rare Vos is flemmish for Sly Fox, and the name of one of Brussels’ great cafes. It has a sweetly fruity malt character and yeasty spiciness."
 	},
 	{
 		id: 96,
@@ -1271,7 +1271,7 @@ exports.beers = [
 		abv: 4.8,
 		date: "11/5/2011",
 		style: "German Hefeweizen",
-		description: "Kellerweis is deeply complex"
+		description: "Kellerweis is deeply complex, with flavors reminiscent of ripe banana and spicy clove. This hazy-golden been glows with suspended yeast creating a velvety texture"
 	},
 	{
 		id: 99,
@@ -1284,7 +1284,7 @@ exports.beers = [
 		abv: 5.7,
 		date: "11/6/2011",
 		style: "Sweet Stout",
-		description: "The unique blend of the oats and malts in Alaskan Stout produce a balanced"
+		description: "The unique blend of the oats and malts in Alaskan Stout produce a balanced, smooth beer with hints of chocolate, coffee and caramel"
 	},
 	{
 		id: 100,
@@ -1297,7 +1297,7 @@ exports.beers = [
 		abv: 6.7,
 		date: "11/10/2011",
 		style: "Indian Pale Ale",
-		description: "This Harvest Ale features wet or un-dried whole-cone hops from Yakima"
+		description: "This Harvest Ale features wet or un-dried whole-cone hops from Yakima, WA that are plucked from the bine and delivered to our brewery within 24 hours of picking"
 	},
 	{
 		id: 101,
@@ -1310,7 +1310,7 @@ exports.beers = [
 		abv: 5.9,
 		date: "11/11/2011",
 		style: "Porter",
-		description: "A rich"
+		description: "A rich, dark and delicious porter with chocolate and coffee overtones accented by a subtle smokiness from just the right amount of peat smoked malt"
 	},
 	{
 		id: 102,
@@ -1323,7 +1323,7 @@ exports.beers = [
 		abv: 5.5,
 		date: "11/17/2011",
 		style: "Spice/Herb/Vegatable",
-		description: "The Ale’s recipe is different every year"
+		description: "The Ale’s recipe is different every year, but the intent with which we offer it remains the same: joy and celebration of the newness of life."
 	},
 	{
 		id: 103,
@@ -1336,7 +1336,7 @@ exports.beers = [
 		abv: 7.9,
 		date: "11/19/2011",
 		style: "Saison",
-		description: "A rustic ale"
+		description: "A rustic ale, pale in color, inspired by the rich brewing traditions of the Flanders region. Abundant hops and a Belgian yeast strain contribute exotic aromas af tropical fruit"
 	},
 	{
 		id: 104,
@@ -1349,7 +1349,7 @@ exports.beers = [
 		abv: 5.3,
 		date: "11/20/2011",
 		style: "Pilsener",
-		description: "Heaps o’ hops are hiding under the full"
+		description: "Heaps o’ hops are hiding under the full, frothy head of this elegant Pils. All German malt subtleties linger beneath a long dry finish of this classy quencher"
 	},
 	{
 		id: 105,
@@ -1362,7 +1362,7 @@ exports.beers = [
 		abv: 7,
 		date: "11/22/2011",
 		style: "Indian Pale Ale",
-		description: "This hoppy American IPA is a full bodied beer brewed American pale and crystalmalts"
+		description: "This hoppy American IPA is a full bodied beer brewed American pale and crystalmalts, and heavily hopped with Chinook, Cascade, Columbus and Centennial"
 	},
 	{
 		id: 106,
@@ -1388,7 +1388,7 @@ exports.beers = [
 		abv: 5.3,
 		date: "11/23/2011",
 		style: "Oktoberfest/Märzen",
-		description: "Samuel Adams Octoberfest is a malt lover’s dream"
+		description: "Samuel Adams Octoberfest is a malt lover’s dream, masterfully blending together four roasts of barley to create a delicious harmony of sweet flavors including caramel and toffee"
 	},
 	{
 		id: 108,
@@ -1401,7 +1401,7 @@ exports.beers = [
 		abv: 4.4,
 		date: "11/27/2011",
 		style: "Amber Ale",
-		description: "This deep amber ale has rich & roasty malt flavors"
+		description: "This deep amber ale has rich & roasty malt flavors, a big hoppy character, citrus overtones (courtesy of the hops and our special brewers yeast) and modest alcohol"
 	},
 	{
 		id: 109,
@@ -1414,7 +1414,7 @@ exports.beers = [
 		abv: 6,
 		date: "12/3/2011",
 		style: "Sweet Stout",
-		description: "Jet black in color and full·bodied with a rich"
+		description: "Jet black in color and full·bodied with a rich, creamy, long-lasting head. Robust, with luscious chocolate and coffee flavors, it is balanced with just the right amount of UK Golding hops."
 	},
 	{
 		id: 110,
@@ -1427,7 +1427,7 @@ exports.beers = [
 		abv: 6.2,
 		date: "12/5/2011",
 		style: "Black IPA",
-		description: "Hmm…what about this dark caramel roasted Midnight Wheat braced with a serious load of Styrian Goldings"
+		description: "Hmm…what about this dark caramel roasted Midnight Wheat braced with a serious load of Styrian Goldings, Centennial and Cascade hops? Shovel it in."
 	},
 	{
 		id: 111,
@@ -1440,7 +1440,7 @@ exports.beers = [
 		abv: 6.7,
 		date: "12/6/2011",
 		style: "English Strong Ale",
-		description: "Characterized by a very large malt body and pronounced bitterness"
+		description: "Characterized by a very large malt body and pronounced bitterness, Jubelale contains five different varieties of hops and a healthy amount of caramel."
 	},
 	{
 		id: 112,
@@ -1453,7 +1453,7 @@ exports.beers = [
 		abv: 7.2,
 		date: "12/7/2011",
 		style: "Belgian Ale",
-		description: "Very lightly filtered"
+		description: "Very lightly filtered, the Grand Cru exhibits complex mouthfeel, strong malt flavors, a spicy hop presence and a soothing alcohol warmth, followed by a clean, dry finish."
 	},
 	{
 		id: 113,
@@ -1466,7 +1466,7 @@ exports.beers = [
 		abv: 7,
 		date: "12/10/2011",
 		style: "Fruit Beer",
-		description: "Frambozen begins with the aroma of fresh red raspberries"
+		description: "Frambozen begins with the aroma of fresh red raspberries, followed by the ripe seductiveness of a fruity brown ale with depth and delicate malt notes."
 	},
 	{
 		id: 114,
@@ -1544,7 +1544,7 @@ exports.beers = [
 		abv: 9,
 		date: "12/25/2011",
 		style: "Belgian Strong Ale",
-		description: "Unique and limited edition"
+		description: "Unique and limited edition, this Belgian style ale is crafted once a year as a special treat for those of you who appreciate flavorful, bottle-conditioned ale with character."
 	},
 	{
 		id: 120,
@@ -1557,7 +1557,7 @@ exports.beers = [
 		abv: 5.4,
 		date: "1/2/2012",
 		style: "Porter",
-		description: "Fuller’s London Porter captures the flavours of those original brews perfectly"
+		description: "Fuller’s London Porter captures the flavours of those original brews perfectly, although you won’t find a cloudy pint these days! Rich, dark and complex, at 5.4% ABV the beer has an outstanding depth of flavour."
 	},
 	{
 		id: 121,
@@ -1583,7 +1583,7 @@ exports.beers = [
 		abv: 6,
 		date: "2/7/2012",
 		style: "Brown Ale",
-		description: "Brewmaster Mark Carpenter’s special blend of roasted malts"
+		description: "Brewmaster Mark Carpenter’s special blend of roasted malts, inspired by the all-malt brown ales in Anchor’s brewing archives, gives Brekle’s Brown its coppery brown color and its unusual depth of flavor—richness and complexity without heaviness."
 	},
 	{
 		id: 123,
@@ -1596,7 +1596,7 @@ exports.beers = [
 		abv: 8,
 		date: "2/19/2012",
 		style: "Imperial/Double IPA",
-		description: "Essentially a strong American IPA made with 20% rye malt. Darker in color"
+		description: "Essentially a strong American IPA made with 20% rye malt. Darker in color, Hop Rod Rye boasts a huge hop aroma and flavor accompanied by a slightly sweet, malty finish."
 	},
 	{
 		id: 124,
@@ -1609,7 +1609,7 @@ exports.beers = [
 		abv: 6,
 		date: "4/8/2012",
 		style: "Stout",
-		description: "Rogue’s Shakespeare Stout is ebony in color"
+		description: "Rogue’s Shakespeare Stout is ebony in color, a rich creamy head and a mellow chocolate aftertaste. It is made from Northwest Harrington, Crystal, and Chocolate malts, roasted barley and rolled oats, along with Cascade hop."
 	},
 	{
 		id: 125,
@@ -1622,7 +1622,7 @@ exports.beers = [
 		abv: 5.8,
 		date: "4/20/2012",
 		style: "Porter",
-		description: "A singularly distinctive beer that represents our finest brewing efforts"
+		description: "A singularly distinctive beer that represents our finest brewing efforts, Walker’s Reserve is an elegant dark ale featuring robust flavors of espresso, caramel and bittersweet chocolate."
 	},
 	{
 		id: 126,
@@ -1635,7 +1635,7 @@ exports.beers = [
 		abv: 8.9,
 		date: "5/15/2012",
 		style: "American Strong Ale",
-		description: "Beer is a Bronze Age business and we feel honored to have left our footprints on it’s path into history"
+		description: "Beer is a Bronze Age business and we feel honored to have left our footprints on it’s path into history, at the same time leaving our flavors on your buds. Thanks for your trust over the years and we hope you enjoy this specialty breweed Hi-Gravity Auburn offering."
 	},
 	{
 		id: 127,
@@ -1648,7 +1648,7 @@ exports.beers = [
 		abv: 5,
 		date: "5/22/2012",
 		style: "Porter",
-		description: "A very dark"
+		description: "A very dark, full bodied ale with a rich, creamy head and an intense dry, tangy character."
 	},
 	{
 		id: 128,
@@ -1661,7 +1661,7 @@ exports.beers = [
 		abv: 5.9,
 		date: "6/8/2012",
 		style: "American Pale Ale",
-		description: "Originally brewed in 1975 to commemorate Paul Revere's ride"
+		description: "Originally brewed in 1975 to commemorate Paul Revere's ride, this brew is a heavily hopped ale (Cascade hops) with a copper color and a hoppy nose."
 	},
 	{
 		id: 129,
@@ -1674,7 +1674,7 @@ exports.beers = [
 		abv: 7.1,
 		date: "6/29/2012",
 		style: "Imperial/Strong Porter",
-		description: "Imperial Porter is a full bodied"
+		description: "Imperial Porter is a full bodied, very dark, malty beer with a good roasted character coming from the Crystal, Chocolate and Black Patent Malts used in the mash. Warrior, English Fuggles, and East Kent Goldings Hops balance the malts with a good hop bite."
 	},
 	{
 		id: 130,
@@ -1687,7 +1687,7 @@ exports.beers = [
 		abv: 6.4,
 		date: "7/21/2012",
 		style: "Stout",
-		description: "Smooth and black"
+		description: "Smooth and black, like the volcanic rock, Obsidian Stout is a solid, satisfying beer with a rich roasted-malt flavor. Obsidian Stout gets is inspiration from one of the world's largest obsidian flows at Newberry Volcano--just a few miles south of the brewery."
 	},
 	{
 		id: 131,
@@ -1700,7 +1700,7 @@ exports.beers = [
 		abv: 5.5,
 		date: "7/21/2012",
 		style: "Dunkler Bock",
-		description: "Bock beer"
+		description: "Bock beer, released in celebration of the arrival of spring, is an ancient and mysterious part of the brewing tradition. Over time, the term bock has come to mean a beer darker and stronger than the brewery’s regular brew."
 	},
 	{
 		id: 132,
@@ -1739,7 +1739,7 @@ exports.beers = [
 		abv: 5,
 		date: "7/27/2012",
 		style: "Dunkel",
-		description: "Japan’s favourite dark beer. Brewed in Osaka"
+		description: "Japan’s favourite dark beer. Brewed in Osaka, Asahi Black is made from three different roasted malts. This gives it a rich, nutty flavour and makes it incredibly smooth-drinking."
 	},
 	{
 		id: 135,
@@ -1765,7 +1765,7 @@ exports.beers = [
 		abv: 7,
 		date: "7/28/2012",
 		style: "Spice/Herb/Vegatable",
-		description: "Fermented for an extended period"
+		description: "Fermented for an extended period, this premium lager features an aromatic sweetness in its amber tones. With the combination of high quality malts, roasted sweet potatoes and beer craftmanship, this beer is unique to the Bushu area, featuring Kawagoe’s famous produce, Kintoki sweet potatoes."
 	},
 	{
 		id: 137,
@@ -1804,7 +1804,7 @@ exports.beers = [
 		abv: 6.5,
 		date: "8/8/2012",
 		style: "Porter",
-		description: "Our Porter is based on a recipe from 1750. We bring you the original aromas and flavours of the beer that made London the world's brewing capital"
+		description: "Our Porter is based on a recipe from 1750. We bring you the original aromas and flavours of the beer that made London the world's brewing capital, flavours we know Washington would have loved."
 	},
 	{
 		id: 140,
@@ -1817,7 +1817,7 @@ exports.beers = [
 		abv: 12,
 		date: "8/10/2012",
 		style: "Weizen Bock",
-		description: "Aventinus"
+		description: "Aventinus, the Wheat Doppelbock of Bavaria, has always been known to be the most intense and complex wheat beer in the world. This was the case for the past sixty years, but not anymore..."
 	},
 	{
 		id: 141,
@@ -1830,7 +1830,7 @@ exports.beers = [
 		abv: 6.7,
 		date: "8/10/2012",
 		style: "Doppelbock",
-		description: "Celebrator has a creamy head of tight bubbles contrasting beautifully with its profound dark robe. It is full-bodied and velvety from half a year's aging. Although it is strong"
+		description: "Celebrator has a creamy head of tight bubbles contrasting beautifully with its profound dark robe. It is full-bodied and velvety from half a year's aging. Although it is strong, it is not overpowering. There is a wonderful and complex balance between the various malts, the alcohol and the subtle hops."
 	},
 	{
 		id: 142,
@@ -1843,7 +1843,7 @@ exports.beers = [
 		abv: 9,
 		date: "8/10/2012",
 		style: "Belgian Strong Ale",
-		description: "Chimay Blue is principally distinguished by its character of a strong beer. This is a beer whose fragrance of fresh yeast with a light"
+		description: "Chimay Blue is principally distinguished by its character of a strong beer. This is a beer whose fragrance of fresh yeast with a light, flowery rosy touch is especially pleasant."
 	},
 	{
 		id: 143,
@@ -1856,7 +1856,7 @@ exports.beers = [
 		abv: 5.7,
 		date: "8/15/2012",
 		style: "Porter",
-		description: "Staying true to original porter brewing techniques"
+		description: "Staying true to original porter brewing techniques,we blend fresh brewed beer with an oak-barrel aged ale to create our Stock Porter.Dark and complex,yet eminently drinkable,this beer is a tantalizing combination of coffee and chocolate aromas married to delicate fruit notes,revealing hints of the California zinfandel that once filled our barrels."
 	},
 	{
 		id: 144,
@@ -1869,7 +1869,7 @@ exports.beers = [
 		abv: 6.7,
 		date: "8/28/2012",
 		style: "Indian Pale Ale",
-		description: "This ale marks our journey to the only place on the planet where fresh hops are harvested in our spring"
+		description: "This ale marks our journey to the only place on the planet where fresh hops are harvested in our spring, the Southern Hemisphere. The result is a North-by-South fusion of fresh New Zealand hops blended with the finest North American malts. Its robust hop character presents an intriguing floral-citrus aroma leading to layers of fresh-hop spiciness."
 	},
 	{
 		id: 145,
@@ -1882,7 +1882,7 @@ exports.beers = [
 		abv: 6.8,
 		date: "9/3/2012",
 		style: "Indian Pale Ale",
-		description: "Sierra Nevada Celebration Ale represents a time honored tradition of brewing a special beer for the holiday season. There are generous portions of barley malts and fine whole hops of several varieties"
+		description: "Sierra Nevada Celebration Ale represents a time honored tradition of brewing a special beer for the holiday season. There are generous portions of barley malts and fine whole hops of several varieties, creating a brew with a full, rich and hearty character."
 	},
 	{
 		id: 146,
@@ -1895,7 +1895,7 @@ exports.beers = [
 		abv: 5.7,
 		date: "9/3/2012",
 		style: "Stout",
-		description: "With its deep"
+		description: "With its deep, dark brown-black color, thick, full-bodied, velvety-smooth mouth feel, mocha character, and, strong yet subtle hop bite, Barney Flats Oatmeal Stout is one of the thickest, richest, and most complex stouts on the market today."
 	},
 	{
 		id: 147,
@@ -1908,7 +1908,7 @@ exports.beers = [
 		abv: 5.3,
 		date: "9/23/2012",
 		style: "Oktoberfest/Märzen",
-		description: "Gordon Biersch’s Festbier is the style of beer most commonly served during the modern day Oktoberfest celebration. It a full bodied"
+		description: "Gordon Biersch’s Festbier is the style of beer most commonly served during the modern day Oktoberfest celebration. It a full bodied, rich, moderately hopped, bronze lager."
 	},
 	{
 		id: 148,
@@ -1973,7 +1973,7 @@ exports.beers = [
 		abv: 5.2,
 		date: "10/20/2012",
 		style: "Stout",
-		description: "Chocolate malt and real dark chocolate are combined with Young's award winning rich"
+		description: "Chocolate malt and real dark chocolate are combined with Young's award winning rich, full flavoured dark beer to craft a satisfyingly indulgent, but never overly sweet experience."
 	},
 	{
 		id: 153,
@@ -1986,7 +1986,7 @@ exports.beers = [
 		abv: 5.2,
 		date: "10/20/2012",
 		style: "English Strong Ale",
-		description: "This dark golden coloured ale hugs the palate with great intensity. Its malty aroma is complemented by the gentle nose of Banana. Its flavour unfolds with a sensual sparkle and a smart crispness"
+		description: "This dark golden coloured ale hugs the palate with great intensity. Its malty aroma is complemented by the gentle nose of Banana. Its flavour unfolds with a sensual sparkle and a smart crispness, which balances its aroma perfectly."
 	},
 	{
 		id: 154,
@@ -1999,7 +1999,7 @@ exports.beers = [
 		abv: 10.5,
 		date: "10/20/2012",
 		style: "Imperial Stout",
-		description: "The Stone Imperial Stout label describes the brew as being intensely aromatic (notes of anise"
+		description: "The Stone Imperial Stout label describes the brew as being intensely aromatic (notes of anise, black currants, coffee, roastiness and alcohol) and heavy on the palate...expect this mysterious brew to pour like used motor oil and taste even heavier! Serve at 55 degrees."
 	},
 	{
 		id: 155,
@@ -2012,7 +2012,7 @@ exports.beers = [
 		abv: 6.5,
 		date: "11/19/2012",
 		style: "Indian Pale Ale",
-		description: "Are you a hopinista? Thank our Beer Rangers for inspiring (and begging for) this well-balanced Simcoe"
+		description: "Are you a hopinista? Thank our Beer Rangers for inspiring (and begging for) this well-balanced Simcoe, Cascade and Chinook hopped IPA. 70 IBUs"
 	},
 	{
 		id: 156,
@@ -2025,7 +2025,7 @@ exports.beers = [
 		abv: 5,
 		date: "1/11/2013",
 		style: "Stout",
-		description: "Originally a drink for lactating mothers"
+		description: "Originally a drink for lactating mothers, oatmeal stout was described as nutritional on early labels. Oats are in the same family as barley, and a small addition yields great flavor. Popular in the late 1800’s, the last oatmeal stout was brewed before the First World War until Samuel Smith reintroduced this style in 1980."
 	},
 	{
 		id: 157,
@@ -2051,7 +2051,7 @@ exports.beers = [
 		abv: 7,
 		date: "2/20/2013",
 		style: "Imperial Stout",
-		description: "Rich"
+		description: "Rich, flavorful, deep chocolate color, scented and roasted barley nose. Complexity of malt, hops, alcohol and yeast."
 	},
 	{
 		id: 159,
@@ -2064,7 +2064,7 @@ exports.beers = [
 		abv: 7.85,
 		date: "2/23/2013",
 		style: "Indian Pale Ale",
-		description: "This substitute beer is a ‘Cereal Medley’ of Barley"
+		description: "This substitute beer is a ‘Cereal Medley’ of Barley, Rye, Wheat, and Oats…. Full of complexishness from the 4 grains, and weighing in at 7.85% abv, Then joyously dry-hopped for that big aroma and resinous hop flavor."
 	},
 	{
 		id: 160,
@@ -2077,7 +2077,7 @@ exports.beers = [
 		abv: 5.5,
 		date: "3/2/2013",
 		style: "Stout",
-		description: "A decadent Oatmeal Stout brimming with cocoa and espresso aromas. This beer features a rich"
+		description: "A decadent Oatmeal Stout brimming with cocoa and espresso aromas. This beer features a rich, dark chocolate and roasted coffee flavor with a creamy mouth feel and wonderfully dry finish."
 	},
 	{
 		id: 161,
@@ -2090,7 +2090,7 @@ exports.beers = [
 		abv: 8.5,
 		date: "3/5/2013",
 		style: "American Strong Ale",
-		description: "Pursuit of Hoppiness was brewed to showcase the brash beauty of American hops: Summit"
+		description: "Pursuit of Hoppiness was brewed to showcase the brash beauty of American hops: Summit, Simcoe, Chinook and Nuggets at 100 International Bitterness Units (IBU). It was brewed with Idaho 2-Row malted barley and German specialty malts to provide a rich, slightly caramel flavor and bold reddish color."
 	},
 	{
 		id: 162,
@@ -2103,7 +2103,7 @@ exports.beers = [
 		abv: 6.5,
 		date: "3/5/2013",
 		style: "Black IPA",
-		description: "This dark brew is a very unique creation originally conceived at home by one brewer. It is a combination of styles that came from his love of Stouts and Porters coupled with his thirst for bitterness and aroma found in an IPA. It is an IPA with a heart of darkness"
+		description: "This dark brew is a very unique creation originally conceived at home by one brewer. It is a combination of styles that came from his love of Stouts and Porters coupled with his thirst for bitterness and aroma found in an IPA. It is an IPA with a heart of darkness, an India Black Ale."
 	},
 	{
 		id: 163,
@@ -2116,7 +2116,7 @@ exports.beers = [
 		abv: 5.2,
 		date: "3/9/2013",
 		style: "Fruit Beer",
-		description: "Shock Top Honeycrisp Apple Wheat is a unique"
+		description: "Shock Top Honeycrisp Apple Wheat is a unique, hand crafted brewed hybrid of Belgian wheat beer and sweet cider, with natural Honeycrisp flavor added to produce an innovative new brew that is crisp, refreshing and flavorful."
 	},
 	{
 		id: 164,
@@ -2129,7 +2129,7 @@ exports.beers = [
 		abv: 7.85,
 		date: "3/9/2013",
 		style: "Brown Ale",
-		description: "WTF Ale. A malty"
+		description: "WTF Ale. A malty, robust, jobless Recovery Ale! We’re not quite in the Red, or in the Black... Does that mean we’re in the Brown? A big Ol’ Imperial Brown Ale to help you with your slipperly slide on into springtime. Rich, smooth, dangerous & chocolatey. "
 	},
 	{
 		id: 165,
@@ -2142,7 +2142,7 @@ exports.beers = [
 		abv: 5.1,
 		date: "3/12/2013",
 		style: "Belgian White (Witbier)",
-		description: "A light white beer of Belgian origin"
+		description: "A light white beer of Belgian origin, we’ve brewed ours with chamomile, coriander, curacao (bitter orange peel), and sweet orange peel. All of the spices are added in the brew house in very small and subtle doses. Perfect for the summer, our Wit beer is light and crisp, with spicy flavors accentuated by fruity aromatics."
 	},
 	{
 		id: 166,
@@ -2168,7 +2168,7 @@ exports.beers = [
 		abv: 5,
 		date: "3/17/2013",
 		style: "American Style Lager",
-		description: "After a good lawn mowing session or spring bike ride"
+		description: "After a good lawn mowing session or spring bike ride, there’s no better way to reach refreshment than with our Wheat Lager. Combining two great styles, Wheat Lager is light, crisp and downright approachable."
 	},
 	{
 		id: 168,
@@ -2207,7 +2207,7 @@ exports.beers = [
 		abv: 9,
 		date: "3/24/2013",
 		style: "Traditional Ale",
-		description: "Midas Touch Golden Elixir is a beverage based on the residue found on the drinking vessels in King Midas’ tomb. Our recipe highlights the known ingredients of barley"
+		description: "Midas Touch Golden Elixir is a beverage based on the residue found on the drinking vessels in King Midas’ tomb. Our recipe highlights the known ingredients of barley, white Muscat grapes, honey and saffron. Somehwere between a beer, wine and mead, this smooth, dry ale will please with Chardonnay or I.P.A. drinker alike."
 	},
 	{
 		id: 171,
@@ -2220,7 +2220,7 @@ exports.beers = [
 		abv: 5.5,
 		date: "3/27/2013",
 		style: "Amber Ale",
-		description: "A full-flavored amber ale made with roasted caramel malt. Richly colored and medium-bodied"
+		description: "A full-flavored amber ale made with roasted caramel malt. Richly colored and medium-bodied, Alleycat is an assertive blend of malts with a sprightly cascade of hops."
 	},
 	{
 		id: 172,
@@ -2233,7 +2233,7 @@ exports.beers = [
 		abv: 6,
 		date: "4/3/2013",
 		style: "Porter",
-		description: "It is the infusion lovechild of our Porter with coffee added from the world famous Kona coffee region of the Big Island of Hawaii. Rich and aromatic with smooth 100% Kona coffee"
+		description: "It is the infusion lovechild of our Porter with coffee added from the world famous Kona coffee region of the Big Island of Hawaii. Rich and aromatic with smooth 100% Kona coffee, it makes for an anytime treat!"
 	},
 	{
 		id: 173,
@@ -2246,7 +2246,7 @@ exports.beers = [
 		abv: 6.8,
 		date: "4/7/2013",
 		style: "Indian Pale Ale",
-		description: "Inversion’s trio of American hops delivers an over-the-top nose with hints of orange and grapefruit. Inversion is then dry-hopped for seven days resulting in an added hoppy kick. To balance the hop character of Inversion"
+		description: "Inversion’s trio of American hops delivers an over-the-top nose with hints of orange and grapefruit. Inversion is then dry-hopped for seven days resulting in an added hoppy kick. To balance the hop character of Inversion, Deschutes’ brewers used crystal and caraston malts that weave throughout the beer providing soft, complex caramel flavors."
 	},
 	{
 		id: 174,
@@ -2259,7 +2259,7 @@ exports.beers = [
 		abv: 8,
 		date: "4/10/2013",
 		style: "Imperial Stout",
-		description: "This thick"
+		description: "This thick, rich ale was brewed with plenty of caramel and roasted malts, and subtly spiced with American Chinook and Willamette hops. It boasts flavors of chocolate and coffee, along with raisins and dried fruit soaked in sherry."
 	},
 	{
 		id: 175,
@@ -2272,7 +2272,7 @@ exports.beers = [
 		abv: 8,
 		date: "4/12/2013",
 		style: "Brown Ale",
-		description: "A full-bodied"
+		description: "A full-bodied, brown ale with a rich chocolate taste created from roasted chocolate and caramel malts. Topped with Czech Saaz hops to give it a spicy flavor and aroma."
 	},
 	{
 		id: 176,
@@ -2285,7 +2285,7 @@ exports.beers = [
 		abv: 5.9,
 		date: "4/13/2013",
 		style: "American Pale Ale",
-		description: "Fire Rock Pale Ale is a crisp"
+		description: "Fire Rock Pale Ale is a crisp, refreshing “Hawaiian-style” pale ale. Its signature copper color results from the unique blend of specialty roasted malts. The pronounced citrus-floral hop aroma comes from the liberal amounts of Galena, Cascade & Mt. Hood hops added to each brew."
 	},
 	{
 		id: 177,
@@ -2311,7 +2311,7 @@ exports.beers = [
 		abv: 5.6,
 		date: "4/18/2013",
 		style: "Amber Ale",
-		description: "Brewed using Cascade"
+		description: "Brewed using Cascade, Columbus and Chinook hops, California Grown malted barley and crystal malt. A mild caramel sweetness gives way to a fresh pine & grapefruit citrus note and balanced bitterness for a dry and refreshing but flavorful ale."
 	},
 	{
 		id: 179,
@@ -2324,7 +2324,7 @@ exports.beers = [
 		abv: 9,
 		date: "4/21/2013",
 		style: "Imperial Stout",
-		description: "A rich"
+		description: "A rich, intense brew with a robust palate, a fruity nose and a warming finish. Very complex."
 	},
 	{
 		id: 180,
@@ -2337,7 +2337,7 @@ exports.beers = [
 		abv: 6.5,
 		date: "4/21/2013",
 		style: "Stout",
-		description: "Campfire Stout evokes fond memories of wilderness and camping adventures. Notes of chocolate and graham cracker topped with a hint of marshmallow will leave you wanting s’more. Like any campfire experience"
+		description: "Campfire Stout evokes fond memories of wilderness and camping adventures. Notes of chocolate and graham cracker topped with a hint of marshmallow will leave you wanting s’more. Like any campfire experience, this beer is best shared with a warm circle of family and friends."
 	},
 	{
 		id: 181,
@@ -2350,7 +2350,7 @@ exports.beers = [
 		abv: 9,
 		date: "4/27/2013",
 		style: "Abbey Tripel",
-		description: "This golden hued ale is marked by passion fruit and herbal notes in the aroma"
+		description: "This golden hued ale is marked by passion fruit and herbal notes in the aroma, with subtle suggestions of banana and honey surfacing from its deep and complex palate. The Tripel's finish is remarkably long and soothing."
 	},
 	{
 		id: 182,
@@ -2363,7 +2363,7 @@ exports.beers = [
 		abv: 5,
 		date: "4/27/2013",
 		style: "Belgian White (Witbier)",
-		description: "Our interpretation of a traditional Belgian wheat beer"
+		description: "Our interpretation of a traditional Belgian wheat beer, Allagash White delicately balances full flavor with a crisp, refreshing taste and subtle hints of spice. Naturally cloudy, bottled with yeast."
 	},
 	{
 		id: 183,
@@ -2376,7 +2376,7 @@ exports.beers = [
 		abv: 4,
 		date: "4/27/2013",
 		style: "Lambic - Fruit",
-		description: "Red-amber in color"
+		description: "Red-amber in color, fresh raspberry aroma, with a sweet-sour taste."
 	},
 	{
 		id: 184,
@@ -2389,7 +2389,7 @@ exports.beers = [
 		abv: 7,
 		date: "4/27/2013",
 		style: "Stout",
-		description: "This deluxe stout is brewed for a full roasted chocolate flavour with a hop character that complements a blend of triple malts. Drink"
+		description: "This deluxe stout is brewed for a full roasted chocolate flavour with a hop character that complements a blend of triple malts. Drink, savour and enjoy."
 	},
 	{
 		id: 185,
@@ -2402,7 +2402,7 @@ exports.beers = [
 		abv: 10,
 		date: "4/27/2013",
 		style: "Belgian Strong Ale",
-		description: "10% vol.alc. – re-fermented and bottle-conditioned Full bodied"
+		description: "10% vol.alc. – re-fermented and bottle-conditioned Full bodied, medium strong, gold coloured beer, with a rich honey-like texture, and a pleasant warming, slightly hoppy-dry lingering aftertaste"
 	},
 	{
 		id: 186,
@@ -2428,7 +2428,7 @@ exports.beers = [
 		abv: 10,
 		date: "4/27/2013",
 		style: "Belgian Strong Ale",
-		description: "Our 20th Anniversary! Let’s roll a bunch of New Belgium together and put it in a bottle. Start with the backbone of Fat Tire"
+		description: "Our 20th Anniversary! Let’s roll a bunch of New Belgium together and put it in a bottle. Start with the backbone of Fat Tire, but double the malt and hops; Add in crisp Asian Pears, a very Belgian thing to do; and bring it to life with a Saison yeast. It’s New Belgium Super Cru from us to you!"
 	},
 	{
 		id: 188,
@@ -2441,7 +2441,7 @@ exports.beers = [
 		abv: 6,
 		date: "4/27/2013",
 		style: "Sour Red/Brown",
-		description: "La Folie Wood-Aged Biere"
+		description: "La Folie Wood-Aged Biere, is our original wood-conditioned beer, resting in French Oak barrels between one and three years before being hand bottled, numbered and corked for your enjoyment. Brewmaster, Peter Bouckaert, came to us from Rodenbach – home of the fabled sour red."
 	},
 	{
 		id: 189,
@@ -2454,7 +2454,7 @@ exports.beers = [
 		abv: 12,
 		date: "4/27/2013",
 		style: "Belgian Strong Ale",
-		description: "12% vol.alc. – re-fermented and bottle-conditioned Rich"
+		description: "12% vol.alc. – re-fermented and bottle-conditioned Rich, dark coloured beer, with a wonderful hoppy, floral nose and well-balanced flavours, making it easy to drink"
 	},
 	{
 		id: 190,
@@ -2467,7 +2467,7 @@ exports.beers = [
 		abv: 8.4,
 		date: "4/27/2013",
 		style: "Abbey Tripel",
-		description: "Tripel Karmeliet is a very refined and complex golden-to-bronze brew with a fantastic creamy head. These characteristics derive not only from the grains used but also from restrained hopping with Styrians and the fruity nature (banana and vanilla) of the house yeast. Aroma has hints of vanilla mixed with citrus aromas. Tripel Karmeliet has not only the lightness and freshness of wheat"
+		description: "Tripel Karmeliet is a very refined and complex golden-to-bronze brew with a fantastic creamy head. These characteristics derive not only from the grains used but also from restrained hopping with Styrians and the fruity nature (banana and vanilla) of the house yeast. Aroma has hints of vanilla mixed with citrus aromas. Tripel Karmeliet has not only the lightness and freshness of wheat, but also the creaminess of oats together with a spicy lemony almost quinine dryness."
 	},
 	{
 		id: 191,
@@ -2480,7 +2480,7 @@ exports.beers = [
 		abv: 7.6,
 		date: "4/27/2013",
 		style: "Belgian Strong Ale",
-		description: "Belgian Ales represent the height of the brewers' art. Sophisticated brewing techniques"
+		description: "Belgian Ales represent the height of the brewers' art. Sophisticated brewing techniques, yeast blends and unique flavoring elements have elevated the beers of Belgium to the status enjoyed by wine in other countries. PranQster follows in this tradition using a mixed culture of antique yeast strains that results in a floral nose, a full fruity flavor and a clean finish."
 	},
 	{
 		id: 192,
@@ -2493,7 +2493,7 @@ exports.beers = [
 		abv: 5.5,
 		date: "4/27/2013",
 		style: "Brown Ale",
-		description: "Contract brewed for Shmaltz Brewing Company. A deep"
+		description: "Contract brewed for Shmaltz Brewing Company. A deep, bold nut brown ale beautifully balanced with rich dark malts and a complex hop character converging to reveal a simply enchanting elixir."
 	},
 	{
 		id: 193,
@@ -2519,7 +2519,7 @@ exports.beers = [
 		abv: 9,
 		date: "4/27/2013",
 		style: "Abbey Tripel",
-		description: "Traditional top-fermentation beer that referments in the bottle. Brewed by the unique family brewery De Halve Maan"
+		description: "Traditional top-fermentation beer that referments in the bottle. Brewed by the unique family brewery De Halve Maan, which has been located in the historical heart of Bruges since 1856. Straffe Hendrik is an authentic Belgian Triple beer, still brewed according to the original recipe. To serve cool."
 	},
 	{
 		id: 195,
@@ -2532,7 +2532,7 @@ exports.beers = [
 		abv: 5,
 		date: "5/2/2013",
 		style: "Fruit Beer",
-		description: "Brown Ale with natural raspberry flavor. A chocolate Brown Ale with the essence of ripe red raspberries"
+		description: "Brown Ale with natural raspberry flavor. A chocolate Brown Ale with the essence of ripe red raspberries, made with malted barley, chocolate and caramel malts, hops, and natural raspberry flavor."
 	},
 	{
 		id: 196,
@@ -2545,7 +2545,7 @@ exports.beers = [
 		abv: 4.5,
 		date: "5/5/2013",
 		style: "Irish Ale",
-		description: "Smithwick’s is Ireland’s number one ale. Its exceptional taste"
+		description: "Smithwick’s is Ireland’s number one ale. Its exceptional taste, distinctive colour and purity of ingredients make it unique. Its rich, satisfying taste has earned it five gold medals in the famous Monde Selection Beer Tasting Competition. Smithwick’s is produced using the finest hops and special roasted, malted barley."
 	},
 	{
 		id: 197,
@@ -2558,7 +2558,7 @@ exports.beers = [
 		abv: 6.7,
 		date: "5/5/2013",
 		style: "Belgian Ale",
-		description: "Ochre coloured top fermented Abbey Beer with an abv of 6.7%. The use of Gatinais barley combined with carefully selected hops creates a perfectly balanced"
+		description: "Ochre coloured top fermented Abbey Beer with an abv of 6.7%. The use of Gatinais barley combined with carefully selected hops creates a perfectly balanced, relatively light tasting beer with a fruity malty taste."
 	},
 	{
 		id: 198,
@@ -2571,7 +2571,7 @@ exports.beers = [
 		abv: 5.3,
 		date: "5/8/2013",
 		style: "Golden Ale/Blonde Ale",
-		description: "Big Wave is a light golden ale with a subtle fruitiness and delicate hop aroma. A smooth"
+		description: "Big Wave is a light golden ale with a subtle fruitiness and delicate hop aroma. A smooth, easy drinking refreshing ale. The lightly roasted honey malt contributes to the golden hue of this beer and also gives a slight sweetness that is balanced out by our special blend of hops."
 	},
 	{
 		id: 199,
@@ -2584,7 +2584,7 @@ exports.beers = [
 		abv: 5,
 		date: "5/11/2013",
 		style: "Premium Lager",
-		description: "Summerfest is a delightfully refreshing example of a traditional style lager beer. While lighter in body than our ales"
+		description: "Summerfest is a delightfully refreshing example of a traditional style lager beer. While lighter in body than our ales, Summerfest displays significant hop aroma and a tangy hop bite. The long lagering period adds a smoothness that makes this beer a great summertime treat."
 	},
 	{
 		id: 200,
@@ -2597,7 +2597,7 @@ exports.beers = [
 		abv: 5,
 		date: "5/12/2013",
 		style: "Pale Lager",
-		description: "With its attractive taste and a price that appealed to consumers at all levels"
+		description: "With its attractive taste and a price that appealed to consumers at all levels, the response and success of Chang marked a new era and turned a new page for the Thai beer industry. In 1998 Beer Chang was awarded the “Gold Medallion” at the International Beer Competition in Australia in the category of “Lager, Unlimited Degree”."
 	},
 	{
 		id: 201,
@@ -2610,7 +2610,7 @@ exports.beers = [
 		abv: 6,
 		date: "5/14/2013",
 		style: "Old Ale",
-		description: "A blend of two ales: Old 5X "
+		description: "A blend of two ales: Old 5X , which is brewed to the maximum strength possible (around 12% abv) and left to mature in 100-barrel oak vats for a minimum of two years, and BPA, a dark, full-bodied freshly brewed beer which is added just before bottling. The result is a unique beer - strong (6% abv), dark, fruity, oaky and very, very special."
 	},
 	{
 		id: 202,
@@ -2636,7 +2636,7 @@ exports.beers = [
 		abv: 4.7,
 		date: "5/16/2013",
 		style: "Pale Lager",
-		description: "It is a light alcohol drink with not too strong bitterness but rather soft taste; therefore"
+		description: "It is a light alcohol drink with not too strong bitterness but rather soft taste; therefore, it’s easy to drink it up."
 	},
 	{
 		id: 204,
@@ -2649,7 +2649,7 @@ exports.beers = [
 		abv: 5,
 		date: "5/17/2013",
 		style: "Premium Lager",
-		description: "A premium lager beer brewed from the finest ingredients"
+		description: "A premium lager beer brewed from the finest ingredients, Singha is a full-bodied 100% barley malt beer that is distinctively rich in taste with strong hop characters."
 	},
 	{
 		id: 205,
@@ -2675,7 +2675,7 @@ exports.beers = [
 		abv: 6.4,
 		date: "5/20/2013",
 		style: "Heller Bock",
-		description: "Abita Bock is brewed with Perle hops and British pale and caramel malts. Our Bock is similar to a German Maibock in its high malt content"
+		description: "Abita Bock is brewed with Perle hops and British pale and caramel malts. Our Bock is similar to a German Maibock in its high malt content, full body and slightly higher alcohol content. Available January-March."
 	},
 	{
 		id: 207,
@@ -2688,7 +2688,7 @@ exports.beers = [
 		abv: 6,
 		date: "5/22/2013",
 		style: "Indian Pale Ale",
-		description: "Our organic IPA uses Tomahawk"
+		description: "Our organic IPA uses Tomahawk, Cascade, and Centennial hops for a rustic, rough-hewn hop character that pairs great with food or relaxing among friends. Prominent citrus and pine aromas and bitterness that is not over the top balances this medium bodied copper-colored brew."
 	},
 	{
 		id: 208,
@@ -2714,7 +2714,7 @@ exports.beers = [
 		abv: 5,
 		date: "5/30/2013",
 		style: "Czech Pilsner/Sv?tlý",
-		description: "Czechvar is the special name (editor’s note: for North America) of the world famous beer produced by the renowned brewery in Ceske Budejovice"
+		description: "Czechvar is the special name (editor’s note: for North America) of the world famous beer produced by the renowned brewery in Ceske Budejovice, Czech Republic. Benefitting from over 700 years of brewing experience of the South Bohemian region, Czechvar is the golden original, acknowledged by many connoisseurs as one of the best lagers in the world."
 	},
 	{
 		id: 210,
@@ -2727,7 +2727,7 @@ exports.beers = [
 		abv: 4.4,
 		date: "6/1/2013",
 		style: "Amber Lager/Vienna",
-		description: "Is a distinctive"
+		description: "Is a distinctive, rich, full-flavored, deep amber-colored beer with an inviting smooth taste without excessive bitterness."
 	},
 	{
 		id: 211,
@@ -2740,7 +2740,7 @@ exports.beers = [
 		abv: 6,
 		date: "6/3/2013",
 		style: "American Pale Ale",
-		description: "Sweetgrass APA is a Pale Ale of distinction! 2009 Great American Beer Festival Gold Medal winner in the American Pale Ale category"
+		description: "Sweetgrass APA is a Pale Ale of distinction! 2009 Great American Beer Festival Gold Medal winner in the American Pale Ale category, this crisp and fragrant beer is hopped and dry-hopped with plenty of Amarillos and Cascades. Try it with any bold, flavorful food to complement its citrusy, resinous spiciness."
 	},
 	{
 		id: 212,
@@ -2753,7 +2753,7 @@ exports.beers = [
 		abv: 3.5,
 		date: "6/5/2013",
 		style: "Pale Lager",
-		description: "China’s #1 selling beer"
+		description: "China’s #1 selling beer, brewed with spring water for a crisp, refreshing taste."
 	},
 	{
 		id: 213,
@@ -2766,7 +2766,7 @@ exports.beers = [
 		abv: 10.4,
 		date: "6/9/2013",
 		style: "Barley Wine",
-		description: "Uinta’s award winning barley wine has a dark amber hue with a rich malty character. Serious amounts of hops are used to balance its hardy alcohol content of over 10% ABV. Originating in England in the nineteenth century"
+		description: "Uinta’s award winning barley wine has a dark amber hue with a rich malty character. Serious amounts of hops are used to balance its hardy alcohol content of over 10% ABV. Originating in England in the nineteenth century, barley wines are brewed with the same traditional ingredients as beer: water, malted barley, hops and yeast. There are no grapes or fruit used in the brewing process."
 	},
 	{
 		id: 214,
@@ -2779,7 +2779,7 @@ exports.beers = [
 		abv: 4.7,
 		date: "6/10/2013",
 		style: "Premium Bitter/ESB",
-		description: "Another fine addition to the Black Sheep Brewery range of premium bottled ales"
+		description: "Another fine addition to the Black Sheep Brewery range of premium bottled ales, our Holy Grail Bitter was specially commissioned to commemorate the 30th anniversary of Monty Python. It has a distinctive taste with plenty of fruity hops, and is full flavoured with a dry and refreshing bitterness."
 	},
 	{
 		id: 215,
@@ -2792,7 +2792,7 @@ exports.beers = [
 		abv: 8,
 		date: "6/12/2013",
 		style: "Doppelbock",
-		description: "Double Vision Doppelbock highlights our brewery’s wonderful glacial spring water and has been brewed in strict adherence to the Reinheitsgebot*. This beer has a luxurious tan head and a bready aroma with a hint of smoke and is dark leather in color with ruby notes. It is lightly spiced with Liberty hops"
+		description: "Double Vision Doppelbock highlights our brewery’s wonderful glacial spring water and has been brewed in strict adherence to the Reinheitsgebot*. This beer has a luxurious tan head and a bready aroma with a hint of smoke and is dark leather in color with ruby notes. It is lightly spiced with Liberty hops, an American version of the noble German Hallertau Mittelfruh, and fermented with lager yeast from a monastery brewery near Munich."
 	},
 	{
 		id: 216,
@@ -2805,7 +2805,7 @@ exports.beers = [
 		abv: 5.8,
 		date: "6/13/2013",
 		style: "Premium Bitter/ESB",
-		description: "Redhook ESB is modeled after the premium Extra Special Bitters found in English pubs. Brewed since 1987"
+		description: "Redhook ESB is modeled after the premium Extra Special Bitters found in English pubs. Brewed since 1987, this full-bodied amber ale is Redhook’s signature brew with its toasted malt flavor and pleasant finishing sweetness. Its eminently drinkable style has established Redhook ESB as a benchmark brew in the amber ale category."
 	},
 	{
 		id: 217,
@@ -2818,7 +2818,7 @@ exports.beers = [
 		abv: 7,
 		date: "6/13/2013",
 		style: "Stout",
-		description: "Ommegang Chocolate Indulgence celebrates our first decade of brewing sinfully fine ales. Chocolate malts and real Belgian chocolate blend into this lushly decadent stout"
+		description: "Ommegang Chocolate Indulgence celebrates our first decade of brewing sinfully fine ales. Chocolate malts and real Belgian chocolate blend into this lushly decadent stout, certain to seduce your palate."
 	},
 	{
 		id: 218,
@@ -2831,7 +2831,7 @@ exports.beers = [
 		abv: 9.8,
 		date: "6/14/2013",
 		style: "Abt/Quadrupel",
-		description: "Three Philosophers is a unique blend of a Belgian-style dark ale and Liefmans Kriek"
+		description: "Three Philosophers is a unique blend of a Belgian-style dark ale and Liefmans Kriek, an authentic cherry ale from Belgium. Cherry chestnut in color, it's opaque but not cloudy with full carbonation topped by a smooth, tan head. Flavors and aromas of roasted malt, molasses and brown sugar, dark fruits, brandied raisins and chocolate, Three Philosophers has notable sweetness with low hop bitterness."
 	},
 	{
 		id: 219,
@@ -2844,7 +2844,7 @@ exports.beers = [
 		abv: 9,
 		date: "6/14/2013",
 		style: "Belgian Strong Ale",
-		description: "With the developing interest in Belgian abbey ales and the monasteries that brew them"
+		description: "With the developing interest in Belgian abbey ales and the monasteries that brew them, it’s time to remind the world that here in the U.S., we have a Monk of our own. Jazz icon Thelonious Monk is the inspiration for North Coast Brewing’s new Belgian-style abbey ale called, appropriately enough, Brother Thelonious. Like a Belgian “Dark Strong Ale”, the beer is rich and robust with an ABV of 9%."
 	},
 	{
 		id: 220,
@@ -2857,7 +2857,7 @@ exports.beers = [
 		abv: 10,
 		date: "6/14/2013",
 		style: "Abbey Tripel",
-		description: "The brewers of Anderson Valley had to conjure the High Priestess of Fermentation to help them formulate and create this rare hand-crafted elixer. It is luxuriant"
+		description: "The brewers of Anderson Valley had to conjure the High Priestess of Fermentation to help them formulate and create this rare hand-crafted elixer. It is luxuriant, smooth, more that a little wild, and at 10% alcohol, it's bound to raise your spirits. Open the Bottle and greet the High Priestess. You are worthy."
 	},
 	{
 		id: 221,
@@ -2870,7 +2870,7 @@ exports.beers = [
 		abv: 5.5,
 		date: "6/14/2013",
 		style: "Porter",
-		description: "The Belgian motto is strength in union. No phrase better describes Three Philosophers"
+		description: "The Belgian motto is strength in union. No phrase better describes Three Philosophers, which unites mallty Belgian-style ale with imported kriek, authentic Belgian cherry alle. Dark, mysterious cherry-chestnut color."
 	},
 	{
 		id: 222,
@@ -2883,7 +2883,7 @@ exports.beers = [
 		abv: 11,
 		date: "6/14/2013",
 		style: "Imperial Stout",
-		description: "Stone Imperial Russian Stout is so thick"
+		description: "Stone Imperial Russian Stout is so thick, rich and well, sinful, you might worry that you’ll be doomed to the fiery pits just for thinking about a sip. It almsot seems evil. Rest assured, however, that even though this seemingly pernicious brew is indeed as black as sin, we guarantee that no actual sin was committed in it’s production...you’ll have to add that on your own."
 	},
 	{
 		id: 223,
@@ -2896,7 +2896,7 @@ exports.beers = [
 		abv: 6.5,
 		date: "6/23/2013",
 		style: "Black IPA",
-		description: "A growing style in the Northwest"
+		description: "A growing style in the Northwest, Dark IPA’s feature all the tasty attributes of a standard IPA, yet juxtaposed against a black malt canvas. Discord is not short on character, with a prominent malt profile that meets up with the bitterness and hop presence from five different hops. A variety of roasted malts provide color and flavor, yet this beer has a lighter body reminiscent of an IPA, not heavy like a porter or stout."
 	},
 	{
 		id: 224,
@@ -2909,7 +2909,7 @@ exports.beers = [
 		abv: 5.4,
 		date: "6/27/2013",
 		style: "Fruit Beer",
-		description: "On Maui"
+		description: "On Maui, follow the old Hana Highway and you will find such a place – Wailua Falls. This plunging cascade of clear water is the inspiration for our Limited Release Wailua Wheat. This golden, sun colored ale has a bright, citrusy flavor that comes from the tropical passion fruit we brew into each batch. Sit back, relax and enjoy paradise anytime"
 	},
 	{
 		id: 225,
@@ -2922,7 +2922,7 @@ exports.beers = [
 		abv: 6.7,
 		date: "6/29/2013",
 		style: "Indian Pale Ale",
-		description: "Multiple hops collide in balanced perfection"
+		description: "Multiple hops collide in balanced perfection, dominating the senses, achieving total satisfaction. From the Pacific Northwest, birthplace of the modern IPA, comes a beer whose name says it all."
 	},
 	{
 		id: 226,
@@ -2935,7 +2935,7 @@ exports.beers = [
 		abv: 5.5,
 		date: "6/29/2013",
 		style: "American Pale Ale",
-		description: "A honey gold"
+		description: "A honey gold, pale ale that is crisp and clear, with an unusual lightness and dryness."
 	},
 	{
 		id: 227,
@@ -2948,7 +2948,7 @@ exports.beers = [
 		abv: 7.9,
 		date: "7/1/2013",
 		style: "Doppelbock",
-		description: "The Paulaner Salvator with its strong"
+		description: "The Paulaner Salvator with its strong,typically malty taste is the original Paulaner. The bottom-fermented Doppelbock-Bier unites the finest hops and dark barley malt. The Paulaner monks served Salvator as a replacement for food at Lent. Their most famous brewer was Brother Barnabas, who was the head of the Paulaner monastery brewery starting from 1773."
 	},
 	{
 		id: 228,
@@ -2961,7 +2961,7 @@ exports.beers = [
 		abv: 6.75,
 		date: "7/4/2013",
 		style: "Amber Ale",
-		description: "This ale contains no actual copper but we’re pretty literal... It looked coppery"
+		description: "This ale contains no actual copper but we’re pretty literal... It looked coppery, so we lamely called it a copper ale. Lots’a nice caramel malt though..."
 	},
 	{
 		id: 229,
@@ -2974,7 +2974,7 @@ exports.beers = [
 		abv: 6,
 		date: "7/5/2013",
 		style: "English Strong Ale",
-		description: "Olde England meets the New World in this strong"
+		description: "Olde England meets the New World in this strong, warming golden ale, brewed by Peter Scholey. Master brewer for the late and much-lamented Brakspear Brewery of Henley-on-Thames, England, Peter started his own brewing operations in 2003. Bad Elf is a hop-lover’s dream, balancing a generous amount of famous English malt with an astounding 45 ounces of fresh hops – including American Cascade – per barrel."
 	},
 	{
 		id: 230,
@@ -3000,7 +3000,7 @@ exports.beers = [
 		abv: 6,
 		date: "7/7/2013",
 		style: "American Pale Ale",
-		description: "Radiant Summer Ale is"
+		description: "Radiant Summer Ale is, Crisp and flavorful, Radiant Summer Ale is a clean finishing summer offering in the Ninkasi tradition. The smooth malt character is balanced by a clean noble hop presence, the perfect compliment to a glorious summer day! 6% alc./vol. 40 ibus. It’s dry-hopped with Liberty hops. It’s more bitter rather than floral and has a crisp, clean finish."
 	},
 	{
 		id: 232,
@@ -3013,7 +3013,7 @@ exports.beers = [
 		abv: 8.5,
 		date: "7/12/2013",
 		style: "Belgian Strong Ale",
-		description: "The particular character and the unique taste of Delirium Tremens result from the use of three different kinds of yeast. Its very original packing"
+		description: "The particular character and the unique taste of Delirium Tremens result from the use of three different kinds of yeast. Its very original packing, which resembles cologne ceramics, and the colourful label contribute to its success."
 	},
 	{
 		id: 233,
@@ -3026,7 +3026,7 @@ exports.beers = [
 		abv: 8,
 		date: "7/17/2013",
 		style: "Abbey Tripel",
-		description: "Chimay Tripel"
+		description: "Chimay Tripel, with its typical golden colour, its slightly hazy appearance and its fine head is especially characterised by its aroma which results from an agreeable combination of fresh hops and yeast. The beer’s flavour, as sensed in the mouth, comes from the smell of hops: above all it is the fruity notes of muscat and raisins that give this beer a particularly attractive aroma. The aroma complements the touch of bitterness. There is no acidity, but an after-bitterness which melts in the mouth. This top fermented Trappist beer, refermented in the bottle, is not pasteurised."
 	},
 	{
 		id: 234,
@@ -3039,7 +3039,7 @@ exports.beers = [
 		abv: 6,
 		date: "7/21/2013",
 		style: "Brown Ale",
-		description: "Dark brown in color with a hazelnut aroma"
+		description: "Dark brown in color with a hazelnut aroma, a rich nutty flavor and a smooth malty finish. Hazelnut Brown Nectar Ale is a blend of Great Western 2-row Pale, Munich, Hugh Baird Brown, Crystal 80 and Crystal 135, Carastan, and Beeston Pale Chocolate malts; hazelnut extract; Perle and Saaz hops."
 	},
 	{
 		id: 235,
@@ -3052,7 +3052,7 @@ exports.beers = [
 		abv: 5.7,
 		date: "7/22/2013",
 		style: "Amber Ale",
-		description: "Mermaid's Red bucks the shallow mid-range red all stereotype. Loaded with Cascade hops"
+		description: "Mermaid's Red bucks the shallow mid-range red all stereotype. Loaded with Cascade hops, it delivers a fresh floral aroma and sharp bitter notes, all while delivering a solid kick of roasted malts that fades seamlessly into a rich, chocolaty finish with hints of clove and caramel."
 	},
 	{
 		id: 236,
@@ -3065,7 +3065,7 @@ exports.beers = [
 		abv: 6,
 		date: "7/22/2013",
 		style: "Porter",
-		description: "With clear notes of espresso"
+		description: "With clear notes of espresso, dark chocolate and a hint of authentic Icelandic coffee, this Porter is dark and rich, offering a medium body that is robust, yet smooth on the palate and easy to drink. There’s no need to be afraid of the dark anymore."
 	},
 	{
 		id: 237,
@@ -3078,7 +3078,7 @@ exports.beers = [
 		abv: 9.1,
 		date: "7/26/2013",
 		style: "Smoked",
-		description: "This strong porter features a solid smoke presence"
+		description: "This strong porter features a solid smoke presence, a rich malt character and a smooth, rounded mouthfeel. Additions of dark muscovado sugar, oats and wheat contribute to its complexity."
 	},
 	{
 		id: 238,
@@ -3091,7 +3091,7 @@ exports.beers = [
 		abv: 7.5,
 		date: "7/29/2013",
 		style: "Heller Bock",
-		description: "Mid-fermented beer with full richness"
+		description: "Mid-fermented beer with full richness, soft distinct bitterness, strong relish and pure hop aroma."
 	},
 	{
 		id: 239,
@@ -3105,58 +3105,6 @@ exports.beers = [
 		date: "8/1/2013",
 		style: "American Pale Ale",
 		description: ""
-	},
-	{
-		id: 243,
-		name: "Beer Camp Imperial Red Ale",
-		brewery: {
-			name: "Sierra Nevada",
-			region: "California",
-			country: "USA"
-		},
-		abv: 8.5,
-		date: "8/23/2013",
-		style: "American Strong Ale",
-		description: "Our aggressive Imperial Red Ale is a massive mix of smooth malts and West Coast hops that have no patience for the lupulin leery. This crimson beer starts with caramel-like malt flavor that can’t suppress the assertive"
-	},
-	{
-		id: 244,
-		name: "The Dogfather Imperial Stout",
-		brewery: {
-			name: "Laughing Dog",
-			region: "Idaho",
-			country: "USA"
-		},
-		abv: 10.85,
-		date: "8/25/2013",
-		style: "Imperial Stout",
-		description: "I got a brew you can’t refuse. The Dogfather is one of the biggest brew we have ever made"
-	},
-	{
-		id: 245,
-		name: "Pale Ale",
-		brewery: {
-			name: "Stone",
-			region: "California",
-			country: "USA"
-		},
-		abv: 5.4,
-		date: "8/31/2013",
-		style: "American Pale Ale",
-		description: "Deep amber in color"
-	},
-	{
-		id: 246,
-		name: "Sierra Nevada",
-		brewery: {
-			name: "Flipside Red IPA",
-			region: "California",
-			country: "USA"
-		},
-		abv: 6.2,
-		date: "9/2/2013",
-		style: "Indian Pale Ale",
-		description: "Flipside Red IPA is a rebuttal to the mild-mannered beers of summer. Tropical fruit and citrus hop flavors from the use of whole-cone Citra"
 	},
 	{
 		id: 240,
@@ -3195,7 +3143,59 @@ exports.beers = [
 		abv: 5.5,
 		date: "8/15/2013",
 		style: "Schwarzbier",
-		description: "Using all organic ingredients and fermenting our black lager at ale temperatures"
+		description: "Using all organic ingredients and fermenting our black lager at ale temperatures, we’ve given this traditional German Schwarzbier style a decidedly California twist. The result is a truly flavorful and extremely drinkable black beer. Enjoy, and stay Lucky!"
+	},
+	{
+		id: 243,
+		name: "Beer Camp Imperial Red Ale",
+		brewery: {
+			name: "Sierra Nevada",
+			region: "California",
+			country: "USA"
+		},
+		abv: 8.5,
+		date: "8/23/2013",
+		style: "American Strong Ale",
+		description: "Our aggressive Imperial Red Ale is a massive mix of smooth malts and West Coast hops that have no patience for the lupulin leery. This crimson beer starts with caramel-like malt flavor that can’t suppress the assertive, citrusy hop finale."
+	},
+	{
+		id: 244,
+		name: "The Dogfather Imperial Stout",
+		brewery: {
+			name: "Laughing Dog",
+			region: "Idaho",
+			country: "USA"
+		},
+		abv: 10.85,
+		date: "8/25/2013",
+		style: "Imperial Stout",
+		description: "I got a brew you can’t refuse. The Dogfather is one of the biggest brew we have ever made, weighing in a 10.85% alcohol. 7 malts and 4 hops give it a complex flavor profile. Over 11 month in the making some of the DogFather has been barrel aged. This is a very limited release with only 40 keg equivalents in draft and only 300 case made."
+	},
+	{
+		id: 245,
+		name: "Pale Ale",
+		brewery: {
+			name: "Stone",
+			region: "California",
+			country: "USA"
+		},
+		abv: 5.4,
+		date: "8/31/2013",
+		style: "American Pale Ale",
+		description: "Deep amber in color, Stone Pale Ale is robust and full flavored. A delicate hop aroma is complemented by a rich maltiness."
+	},
+	{
+		id: 246,
+		name: "Sierra Nevada",
+		brewery: {
+			name: "Flipside Red IPA",
+			region: "California",
+			country: "USA"
+		},
+		abv: 6.2,
+		date: "9/2/2013",
+		style: "Indian Pale Ale",
+		description: "Flipside Red IPA is a rebuttal to the mild-mannered beers of summer. Tropical fruit and citrus hop flavors from the use of whole-cone Citra, Simcoe and Centennial hops are the perfect notes for this in-between season."
 	},
 	{
 		id: 247,
@@ -3208,6 +3208,32 @@ exports.beers = [
 		abv: 6.4,
 		date: "9/5/2013",
 		style: "Indian Pale Ale",
-		description: "A salute to the playful side of summer"
+		description: "A salute to the playful side of summer, we had fun with this beer! Maiden the Shade has a big robust hop character from the liberal use of 7 different varieties of hops. It s completed with a light colored malt backbone to stay in balance. Kick back and enjoy!"
+	},
+	{
+		id: 248,
+		name: "Red Barn Ale",
+		brewery: {
+			name: "Lost Abbey",
+			region: "California",
+			country: "USA"
+		},
+		abv: 6.7,
+		date: "9/8/2013",
+		style: "Saison",
+		description: "This Farmhouse Ale traces its roots to the small rustic breweries of Southern Belgium. The word Saison comes to us from the French language and it means Season. Lightly spiced with Organic Ginger, Orange Peels, Black Pepper and Grains of Paradise, this brew promises to quench your thirst on the hottest Southern California days or wherever your travels may take you."
+	},
+	{
+		id: 249,
+		name: "Twilight Summer Ale",
+		brewery: {
+			name: "Deschutes",
+			region: "Oregon",
+			country: "USA"
+		},
+		abv: 5,
+		date: "9/10/2013",
+		style: "American Pale Ale",
+		description: "A lighter, yet full-flavored, aromatic Ale for the long days of summer. Twilight’s solid malt foundation pairs with distinctive Amarillo hops for flavors every bit as intriguing as bigger, heavier ales. A back porch, lingering sunset wonder."
 	}
 ];
