@@ -1,20 +1,26 @@
 extends layout
 
 block content
-    h1 Search
-    
-    form(id='form', method='post', action='/search')
-        label(for='name') Name:
-        input(id='name', name='name')
+    .container
+        .row
+            h1 Search
         
-        button.btn.btn-success.text-center(type='submit') Search
-    
-    if (beers != null && beers.length > 0)
-        table.table.table-striped
-            thead
-                tr
-                    th Name
-            tbody
-                each beer in beers
-                    tr
-                        td #{beer.brewery.name} #{beer.name}
+        .row
+            form.form-inline(id='form', method='post', action='/search', role='form')
+                .form-group.col-lg-3
+                    label.sr-only(for='name') Name:
+                    input.form-control(id='name', name='name', type='text', placeholder='Name / Brewery')
+                
+                .form-group   
+                    button.btn.btn-success.text-center(type='submit') Search
+        
+            if (beers != null && beers.length > 0)
+                .row
+                    table.table.table-striped
+                        thead
+                            tr
+                                th Name
+                        tbody
+                            each beer in beers
+                                tr
+                                    td #{beer.brewery.name} #{beer.name}
