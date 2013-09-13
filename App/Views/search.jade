@@ -20,7 +20,18 @@ block content
                         thead
                             tr
                                 th Name
+                                th Style
+                                th Date
+                                th J
+                                th V
                         tbody
                             each beer in beers
                                 tr
                                     td #{beer.brewery.name} #{beer.name}
+                                    td #{beer.style}
+                                    td #{beer.date}
+                                    td #{beer.ratings[0].rating}
+                                    if (beer.ratings[1].rating == 0)
+                                        td -
+                                    else
+                                        td #{beer.ratings[1].rating}
