@@ -21,6 +21,7 @@ block content
                             tr
                                 th Name
                                 th Style
+                                th ABV
                                 th Date
                                 th J
                                 th V
@@ -29,6 +30,7 @@ block content
                                 tr
                                     td #{beer.brewery.name} #{beer.name}
                                     td #{beer.style}
+                                    td #{beer.abv}%
                                     td #{beer.date}
                                     td #{beer.ratings[0].rating}
                                     if (beer.ratings[1].rating == 0)
