@@ -11,8 +11,7 @@ block content
                     label.sr-only(for='name') Name:
                     input.form-control(id='name', name='name', type='text', placeholder='Name / Brewery' value='#{name}')
                 
-                .form-group   
-                    button.btn.btn-success.text-center(type='submit') Search
+                button.btn.btn-success.text-center(type='submit') Search
         
             if (beers != null && beers.length > 0)
                 .row
@@ -28,12 +27,25 @@ block content
                         tbody
                             each beer in beers
                                 tr
-                                    td #{beer.brewery.name} #{beer.name}
+                                    if (beer.favorite)
+                                        td 
+                                            strong #{beer.brewery.name} #{beer.name}
+                                    else
+                                        td #{beer.brewery.name} #{beer.name}
                                     td #{beer.style}
                                     td #{beer.abv}%
                                     td #{beer.date}
-                                    td #{beer.ratings[0].rating}
-                                    if (beer.ratings[1].rating == 0)
+                                    if (beer.ratings[0].rating < 1)
                                         td -
-                                    else
+                                    if (beer.ratings[0].rating >= 1 && beer.ratings[0].rating <=3)
+                                        td #{beer.ratings[0].rating}
+                                    if (beer.ratings[0].rating > 3)
+                                        td
+                                            strong #{beer.ratings[0].rating}
+                                    if (beer.ratings[1].rating < 1)
+                                        td -
+                                    if (beer.ratings[1].rating >= 1 && beer.ratings[1].rating <=3)
                                         td #{beer.ratings[1].rating}
+                                    if (beer.ratings[1].rating > 3)
+                                        td
+                                            strong #{beer.ratings[1].rating}
