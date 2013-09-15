@@ -192,30 +192,6 @@ exports.beers = [
 		favorite: false
 	},
 	{
-		id: 9,
-		name: "Waggle Dance",
-		brewery: {
-			name: "Wells",
-			region: "Bedford",
-			country: "England"
-		},
-		abv: 5,
-		ratings: [
-			{
-				name: "Jason",
-				rating: 3
-			},
-			{
-				name: "Valerie",
-				rating: 0
-			}
-		],
-		date: "4/29/2011",
-		style: "Golden Ale/Blonde Ale",
-		description: "Amber beer with a touch of honey on the nose and palate. The sweetness is balanced by a healthy dose of hops to provide the bitterness that gives a wonderfully delicate flavour. Pale Ale and Crystal malts and British Fuggle and Golding hops, together with South American honey, combine perfectly to create this delicious golden ale with a superb honey aroma.",
-		favorite: false
-	},
-	{
 		id: 10,
 		name: "Cornish Mutiny",
 		brewery: {
@@ -238,6 +214,30 @@ exports.beers = [
 		style: "Premium Bitter/ESB",
 		description: "This fine beer enjoys a dark rich colour with a distinctive 'hoppy' character and a slightly 'biscuity' flavour.",
 		favorite: true
+	},
+	{
+		id: 9,
+		name: "Waggle Dance",
+		brewery: {
+			name: "Wells",
+			region: "Bedford",
+			country: "England"
+		},
+		abv: 5,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 0
+			}
+		],
+		date: "4/29/2011",
+		style: "Golden Ale/Blonde Ale",
+		description: "Amber beer with a touch of honey on the nose and palate. The sweetness is balanced by a healthy dose of hops to provide the bitterness that gives a wonderfully delicate flavour. Pale Ale and Crystal malts and British Fuggle and Golding hops, together with South American honey, combine perfectly to create this delicious golden ale with a superb honey aroma.",
+		favorite: false
 	},
 	{
 		id: 11,
@@ -356,7 +356,7 @@ exports.beers = [
 		],
 		date: "5/7/2011",
 		style: "Old Ale",
-		description: "Its initial sweetness is, apparently, of roasted and vinous notes with a subtle bitter aftertaste. Strong fruitiness, often with banana notes standing out, is derived from Old Peculier’s fermentation process.",
+		description: "Its initial sweetness is, apparently, of roasted and vinous notes with a subtle bitter aftertaste. Strong fruitiness, often with "banana notes"" standing out, is derived from Old Peculier’s fermentation process."",
 		favorite: true
 	},
 	{
@@ -504,30 +504,6 @@ exports.beers = [
 		favorite: false
 	},
 	{
-		id: 22,
-		name: "Tribute",
-		brewery: {
-			name: "St Austell",
-			region: "Cornwall",
-			country: "England"
-		},
-		abv: 4.2,
-		ratings: [
-			{
-				name: "Jason",
-				rating: 4
-			},
-			{
-				name: "Valerie",
-				rating: 0
-			}
-		],
-		date: "5/18/2011",
-		style: "Bitter",
-		description: "St. Austell’s most sought after ale is available as a 500ml bottled beer. It’s perfectly balanced flavour retains much of the cask versions unique hoppy palate and citrusy nose. An ale to savour and a real Cornish ambassador. Rapidly becoming “the” Cornish Premium Ale, this great beer can now be enjoyed outside of the county of Cornwall.",
-		favorite: true
-	},
-	{
 		id: 23,
 		name: "Bombardier",
 		brewery: {
@@ -549,6 +525,30 @@ exports.beers = [
 		date: "5/20/2011",
 		style: "Premium Bitter/ESB",
 		description: "Bombardier is the definitive English Bitter, perfectly balanced with a dry personality.",
+		favorite: true
+	},
+	{
+		id: 22,
+		name: "Tribute",
+		brewery: {
+			name: "St Austell",
+			region: "Cornwall",
+			country: "England"
+		},
+		abv: 4.2,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 4
+			},
+			{
+				name: "Valerie",
+				rating: 0
+			}
+		],
+		date: "5/18/2011",
+		style: "Bitter",
+		description: "St. Austell’s most sought after ale is available as a 500ml bottled beer. It’s perfectly balanced flavour retains much of the cask versions unique hoppy palate and citrusy nose. An ale to savour and a real Cornish ambassador. Rapidly becoming “the” Cornish Premium Ale, this great beer can now be enjoyed outside of the county of Cornwall.",
 		favorite: true
 	},
 	{
@@ -2377,7 +2377,7 @@ exports.beers = [
 	},
 	{
 		id: 100,
-		name: "Northern Hemisphere Harvest Wet Hob Ale",
+		name: "Northern Hemisphere Harvest Wet Hop Ale",
 		brewery: {
 			name: "Sierra Nevada",
 			region: "California",
@@ -3711,7 +3711,7 @@ exports.beers = [
 			},
 			{
 				name: "Valerie",
-				rating: 0
+				rating: 2
 			}
 		],
 		date: "11/19/2012",
@@ -5953,7 +5953,7 @@ exports.beers = [
 	},
 	{
 		id: 249,
-		name: "Twilight Summer Ale",
+		name: "Twilight",
 		brewery: {
 			name: "Deschutes",
 			region: "Oregon",
@@ -5974,5 +5974,77 @@ exports.beers = [
 		style: "American Pale Ale",
 		description: "A lighter, yet full-flavored, aromatic Ale for the long days of summer. Twilight’s solid malt foundation pairs with distinctive Amarillo hops for flavors every bit as intriguing as bigger, heavier ales. A back porch, lingering sunset wonder.",
 		favorite: true
+	},
+	{
+		id: 250,
+		name: "Rolle Bolle",
+		brewery: {
+			name: "New Belgium",
+			region: "Colorado",
+			country: "USA"
+		},
+		abv: 5.5,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 2
+			},
+			{
+				name: "Valerie",
+				rating: 3
+			}
+		],
+		date: "9/14/2013",
+		style: "Belgian Ale",
+		description: "Rolle Bolle is a wonderfully fun Belgian yard game and a delightfully easy summer ale. Brewed with monk fruit and soursop it stays true to the Belgian tradition of playing with beer and all that goes into it. Roll on.",
+		favorite: false
+	},
+	{
+		id: 251,
+		name: "Loft",
+		brewery: {
+			name: "New Belgium",
+			region: "Colorado",
+			country: "USA"
+		},
+		abv: 4.2,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 2
+			},
+			{
+				name: "Valerie",
+				rating: 3
+			}
+		],
+		date: "9/14/2013",
+		style: "Belgian Ale",
+		description: "In a category all its own, Loft delivers an uplifting zest, a taut line of hoppiness, and, from integrated wheat and barley malt, a mouthful as big as the sky. Spiced with Kaffir lime leaves.",
+		favorite: false
+	},
+	{
+		id: 252,
+		name: "Sunshine Wheat",
+		brewery: {
+			name: "New Belgium",
+			region: "Colorado",
+			country: "USA"
+		},
+		abv: 4.8,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 3
+			}
+		],
+		date: "9/14/2013",
+		style: "Wheat Ale",
+		description: "Does it get any sunnier than two people in love? Sunshine Wheat came into the world as Wedding Wheat, a beer Jeff brewed in celebration of his wedding to Kim. A filtered wheat beer, Sunshine Wheat swirls in the mouth with ripples of coriander and orange peel tartness, settling into a sea of honey and apple tones.",
+		favorite: false
 	}
 ];
