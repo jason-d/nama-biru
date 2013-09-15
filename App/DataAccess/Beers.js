@@ -192,30 +192,6 @@ exports.beers = [
 		favorite: false
 	},
 	{
-		id: 10,
-		name: "Cornish Mutiny",
-		brewery: {
-			name: "Wooden Hand",
-			region: "Cornwall",
-			country: "England"
-		},
-		abv: 4.8,
-		ratings: [
-			{
-				name: "Jason",
-				rating: 4
-			},
-			{
-				name: "Valerie",
-				rating: 0
-			}
-		],
-		date: "4/30/2011",
-		style: "Premium Bitter/ESB",
-		description: "This fine beer enjoys a dark rich colour with a distinctive 'hoppy' character and a slightly 'biscuity' flavour.",
-		favorite: true
-	},
-	{
 		id: 9,
 		name: "Waggle Dance",
 		brewery: {
@@ -238,6 +214,30 @@ exports.beers = [
 		style: "Golden Ale/Blonde Ale",
 		description: "Amber beer with a touch of honey on the nose and palate. The sweetness is balanced by a healthy dose of hops to provide the bitterness that gives a wonderfully delicate flavour. Pale Ale and Crystal malts and British Fuggle and Golding hops, together with South American honey, combine perfectly to create this delicious golden ale with a superb honey aroma.",
 		favorite: false
+	},
+	{
+		id: 10,
+		name: "Cornish Mutiny",
+		brewery: {
+			name: "Wooden Hand",
+			region: "Cornwall",
+			country: "England"
+		},
+		abv: 4.8,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 4
+			},
+			{
+				name: "Valerie",
+				rating: 0
+			}
+		],
+		date: "4/30/2011",
+		style: "Premium Bitter/ESB",
+		description: "This fine beer enjoys a dark rich colour with a distinctive 'hoppy' character and a slightly 'biscuity' flavour.",
+		favorite: true
 	},
 	{
 		id: 11,
@@ -356,7 +356,7 @@ exports.beers = [
 		],
 		date: "5/7/2011",
 		style: "Old Ale",
-		description: "Its initial sweetness is, apparently, of roasted and vinous notes with a subtle bitter aftertaste. Strong fruitiness, often with "banana notes"" standing out, is derived from Old Peculier’s fermentation process."",
+		description: "Its initial sweetness is, apparently, of roasted and vinous notes with a subtle bitter aftertaste. Strong fruitiness, often with banana notes standing out, is derived from Old Peculier’s fermentation process.",
 		favorite: true
 	},
 	{
@@ -504,30 +504,6 @@ exports.beers = [
 		favorite: false
 	},
 	{
-		id: 23,
-		name: "Bombardier",
-		brewery: {
-			name: "Wells",
-			region: "Bedford",
-			country: "England"
-		},
-		abv: 4.7,
-		ratings: [
-			{
-				name: "Jason",
-				rating: 4
-			},
-			{
-				name: "Valerie",
-				rating: 0
-			}
-		],
-		date: "5/20/2011",
-		style: "Premium Bitter/ESB",
-		description: "Bombardier is the definitive English Bitter, perfectly balanced with a dry personality.",
-		favorite: true
-	},
-	{
 		id: 22,
 		name: "Tribute",
 		brewery: {
@@ -549,6 +525,30 @@ exports.beers = [
 		date: "5/18/2011",
 		style: "Bitter",
 		description: "St. Austell’s most sought after ale is available as a 500ml bottled beer. It’s perfectly balanced flavour retains much of the cask versions unique hoppy palate and citrusy nose. An ale to savour and a real Cornish ambassador. Rapidly becoming “the” Cornish Premium Ale, this great beer can now be enjoyed outside of the county of Cornwall.",
+		favorite: true
+	},
+	{
+		id: 23,
+		name: "Bombardier",
+		brewery: {
+			name: "Wells",
+			region: "Bedford",
+			country: "England"
+		},
+		abv: 4.7,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 4
+			},
+			{
+				name: "Valerie",
+				rating: 0
+			}
+		],
+		date: "5/20/2011",
+		style: "Premium Bitter/ESB",
+		description: "Bombardier is the definitive English Bitter, perfectly balanced with a dry personality.",
 		favorite: true
 	},
 	{
