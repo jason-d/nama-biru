@@ -6,12 +6,17 @@ block content
             h1 Search
         
         .row
-            form.form-inline(id='form', method='post', action='/search', role='form')
-                .form-group.col-lg-3
-                    label.sr-only(for='name') Name:
-                    input.form-control(id='name', name='name', type='text', placeholder='Name / Brewery' value='#{name}')
+            form.form-horizontal(id='form', method='post', action='/search', role='form')
+                .form-group
+                    label.control-label.col-lg-1(for='name') Keyword:
+                    .col-lg-2
+                        input.form-control(id='name', name='name', type='text', placeholder='Name / Brewery' value='#{name}')
+                    
+                    label.control-label.col-lg-2(for='favoritesOnly') Only favorite beers:
+                    .col-lg-1.checkbox
+                        input(id='favoritesOnly', name='favoritesOnly', type='checkbox')
                 
-                button.btn.btn-success.text-center(type='submit') Search
+                    button.btn.btn-success.text-center(type='submit') Search
         
             if (beers != null && beers.length > 0)
                 .row
