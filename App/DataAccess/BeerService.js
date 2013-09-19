@@ -19,6 +19,23 @@ exports.findByName = function(name) {
     return ordered;
 };
 
+exports.findFavoritesByName = function(name) {
+    name = name.toLowerCase();
+    
+    var filtered = _.filter(beers, function(beer) {
+        var text = util.format('%s %s', beer.brewery.name, beer.name)
+            .toLowerCase();
+        
+        return text.indexOf(name) > -1 && beer.favorite;
+    });
+    
+    var ordered = _.sortBy(filtered, function(beer) {
+        return util.format('%s %s', beer.brewery.name, beer.name);
+    });
+    
+    return ordered;
+};
+
 exports.findByBreweryName = function(breweryName) {
     breweryName = breweryName.toLowerCase();
     

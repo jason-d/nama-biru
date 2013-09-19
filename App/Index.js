@@ -33,7 +33,13 @@ app.get('/', function(req, res) {
     res.redirect('/search');
 });
 
-app.get('/search', controller.search);
+app.get('/search', function(req, res) {
+    res.render('search', { 
+        beers: null, 
+        name: '', 
+        favoritesOnly: false 
+    });
+});
 app.post('/search', controller.search);
 
 app.listen(process.env.PORT, process.env.IP);
