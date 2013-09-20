@@ -7,52 +7,49 @@ block content
         
         .row
             form.form-inline(id='form', method='post', action='/search', role='form')
-                .form-group
-                    label.control-label.col-lg-1(for='name') Keyword:
-                    .col-lg-2
-                        input.form-control(id='name', name='name', type='text', placeholder='Name / Brewery', value='#{name}')
-                        
-                .form-group
-                    label.control-label.col-lg-2(for='favoritesOnly') Only favorite beers:
-                    .col-lg-1.checkbox
-                        input(id='favoritesOnly', name='favoritesOnly', type='checkbox', checked= favoritesOnly)
-                        
-                .form-group
+                .form-group.col-lg-4
+                    label.sr-only(for='name') Keyword:
+                    input.form-control(id='name', name='name', type='text', placeholder='Name / Brewery', value='#{name}')
+                .checkbox.col-lg-2
+                    label
+                        input(id='favoritesOnly', name='favoritesOnly', type='checkbox', checked= favoritesOnly) 
+                        &nbsp;Favorite beers only
+                .form-group.col-lg-1     
                     button.btn.btn-success.text-center(type='submit') Search
-        
-            if (beers != null && beers.length > 0)
-                .row
-                    table.table.table-striped
-                        thead
+                        
+        if (beers != null && beers.length > 0)
+            .row
+                table.table.table-striped
+                    thead
+                        tr
+                            th Name
+                            th Style
+                            th ABV
+                            th Date
+                            th J
+                            th V
+                    tbody
+                        each beer in beers
                             tr
-                                th Name
-                                th Style
-                                th ABV
-                                th Date
-                                th J
-                                th V
-                        tbody
-                            each beer in beers
-                                tr
-                                    if (beer.favorite)
-                                        td 
-                                            strong #{beer.brewery.name} #{beer.name}
-                                    else
-                                        td #{beer.brewery.name} #{beer.name}
-                                    td #{beer.style}
-                                    td #{beer.abv}%
-                                    td #{beer.date}
-                                    if (beer.ratings[0].rating < 1)
-                                        td -
-                                    if (beer.ratings[0].rating >= 1 && beer.ratings[0].rating <=3)
-                                        td #{beer.ratings[0].rating}
-                                    if (beer.ratings[0].rating > 3)
-                                        td
-                                            strong #{beer.ratings[0].rating}
-                                    if (beer.ratings[1].rating < 1)
-                                        td -
-                                    if (beer.ratings[1].rating >= 1 && beer.ratings[1].rating <=3)
-                                        td #{beer.ratings[1].rating}
-                                    if (beer.ratings[1].rating > 3)
-                                        td
-                                            strong #{beer.ratings[1].rating}
+                                if (beer.favorite)
+                                    td 
+                                        strong #{beer.brewery.name} #{beer.name}
+                                else
+                                    td #{beer.brewery.name} #{beer.name}
+                                td #{beer.style}
+                                td #{beer.abv}%
+                                td #{beer.date}
+                                if (beer.ratings[0].rating < 1)
+                                    td -
+                                if (beer.ratings[0].rating >= 1 && beer.ratings[0].rating <=3)
+                                    td #{beer.ratings[0].rating}
+                                if (beer.ratings[0].rating > 3)
+                                    td
+                                        strong #{beer.ratings[0].rating}
+                                if (beer.ratings[1].rating < 1)
+                                    td -
+                                if (beer.ratings[1].rating >= 1 && beer.ratings[1].rating <=3)
+                                    td #{beer.ratings[1].rating}
+                                if (beer.ratings[1].rating > 3)
+                                    td
+                                        strong #{beer.ratings[1].rating}
