@@ -33,9 +33,11 @@ block content
                             tr
                                 if (beer.favorite)
                                     td 
-                                        strong #{beer.brewery.name} #{beer.name}
+                                        a(href='#{beer.imageUrl}') 
+                                            strong #{beer.brewery.name} #{beer.name}
                                 else
-                                    td #{beer.brewery.name} #{beer.name}
+                                    td 
+                                        a(href='#{beer.imageUrl}') #{beer.brewery.name} #{beer.name}
                                 td #{beer.style}
                                 td #{beer.abv}%
                                 td #{beer.date}

@@ -41,6 +41,7 @@ app.get('/search', function(req, res) {
     });
 });
 app.post('/search', controller.search);
+app.get('/image/:id', controller.image);
 
 app.listen(process.env.PORT, process.env.IP);
 console.log('Nama-biru running...');
