@@ -78,7 +78,7 @@ exports.beers = [
 		id: 4,
 		name: "Doom Bar",
 		brewery: {
-			name: "Sharp's",
+			name: "Sharps",
 			region: "Cornwall",
 			country: "England"
 		},
@@ -245,7 +245,7 @@ exports.beers = [
 		],
 		date: "4/30/2011",
 		style: "Premium Bitter/ESB",
-		description: "This fine beer enjoys a dark rich colour with a distinctive 'hoppy' character and a slightly 'biscuity' flavour.",
+		description: "This fine beer enjoys a dark rich colour with a distinctive hoppy character and a slightly biscuity flavour.",
 		favorite: true,
 		imageUrl: "./image/10"
 	},
@@ -303,7 +303,7 @@ exports.beers = [
 		id: 13,
 		name: "Heligan Honey",
 		brewery: {
-			name: "Skinner's",
+			name: "Skinners",
 			region: "Cornwall",
 			country: "England"
 		},
@@ -376,7 +376,7 @@ exports.beers = [
 	},
 	{
 		id: 16,
-		name: "Admiral's Ale",
+		name: "Admirals Ale",
 		brewery: {
 			name: "St Austell",
 			region: "Cornwall",
@@ -403,7 +403,7 @@ exports.beers = [
 		id: 17,
 		name: "Discovery",
 		brewery: {
-			name: "Fuller's",
+			name: "Fullers",
 			region: "Surrey",
 			country: "England"
 		},
@@ -428,7 +428,7 @@ exports.beers = [
 		id: 18,
 		name: "Old Empire",
 		brewery: {
-			name: "Marston's",
+			name: "Marstons",
 			region: "Staffordshire",
 			country: "England"
 		},
@@ -600,6 +600,31 @@ exports.beers = [
 		imageUrl: "./image/24"
 	},
 	{
+		id: 25,
+		name: "Cornish Knocker",
+		brewery: {
+			name: "Skinners",
+			region: "Cornwall",
+			country: "England"
+		},
+		abv: 4.5,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 0
+			}
+		],
+		date: "5/22/2011",
+		style: "Golden Ale/Blonde Ale",
+		description: "A strong, clean tasting Golden Beer thats not too sweet and with a fresh flowery aroma.",
+		favorite: false,
+		imageUrl: "./image/25"
+	},
+	{
 		id: 26,
 		name: "Abbot Ale",
 		brewery: {
@@ -625,35 +650,10 @@ exports.beers = [
 		imageUrl: "./image/26"
 	},
 	{
-		id: 25,
-		name: "Cornish Knocker",
-		brewery: {
-			name: "Skinner's",
-			region: "Cornwall",
-			country: "England"
-		},
-		abv: 4.5,
-		ratings: [
-			{
-				name: "Jason",
-				rating: 3
-			},
-			{
-				name: "Valerie",
-				rating: 0
-			}
-		],
-		date: "5/22/2011",
-		style: "Golden Ale/Blonde Ale",
-		description: "A strong, clean tasting Golden Beer that's not too sweet and with a fresh flowery aroma.",
-		favorite: false,
-		imageUrl: "./image/25"
-	},
-	{
 		id: 27,
 		name: "London Pride",
 		brewery: {
-			name: "Fuller's",
+			name: "Fullers",
 			region: "Surrey",
 			country: "England"
 		},
@@ -678,7 +678,7 @@ exports.beers = [
 		id: 28,
 		name: "Eden Pure Ale",
 		brewery: {
-			name: "Sharp's",
+			name: "Sharps",
 			region: "Cornwall",
 			country: "England"
 		},
@@ -703,7 +703,7 @@ exports.beers = [
 		id: 29,
 		name: "Pedigree",
 		brewery: {
-			name: "Marston's",
+			name: "Marstons",
 			region: "Staffordshire",
 			country: "England"
 		},
@@ -753,7 +753,7 @@ exports.beers = [
 		id: 31,
 		name: "Champion",
 		brewery: {
-			name: "McEwan's",
+			name: "McEwans",
 			region: "Edinburgh",
 			country: "Scotland"
 		},
@@ -828,7 +828,7 @@ exports.beers = [
 		id: 34,
 		name: "ESB",
 		brewery: {
-			name: "Fuller's",
+			name: "Fullers",
 			region: "Surrey",
 			country: "England"
 		},
@@ -978,7 +978,7 @@ exports.beers = [
 		id: 40,
 		name: "Alcoholic Ginger Beer",
 		brewery: {
-			name: "Crabbie's",
+			name: "Crabbies",
 			region: "Glasgow",
 			country: "Scotland"
 		},
@@ -1053,7 +1053,7 @@ exports.beers = [
 		id: 43,
 		name: "Bitter",
 		brewery: {
-			name: "Banks's",
+			name: "Bankss",
 			region: "West Midlands",
 			country: "England"
 		},
@@ -1101,7 +1101,7 @@ exports.beers = [
 	},
 	{
 		id: 45,
-		name: "Finchley's Golden Pale Ale",
+		name: "Finchleys Golden Pale Ale",
 		brewery: {
 			name: "Batemans",
 			region: "Lincolnshire",
@@ -1251,7 +1251,7 @@ exports.beers = [
 	},
 	{
 		id: 51,
-		name: "England's Gold",
+		name: "Englands Gold",
 		brewery: {
 			name: "Badger",
 			region: "Dorset",
@@ -1303,7 +1303,7 @@ exports.beers = [
 		id: 53,
 		name: "Betty Stogs",
 		brewery: {
-			name: "Skinner's",
+			name: "Skinners",
 			region: "Cornwall",
 			country: "England"
 		},
@@ -1428,7 +1428,7 @@ exports.beers = [
 		id: 58,
 		name: "Alcoholic Ginger Beer",
 		brewery: {
-			name: "Church's (Aldi)",
+			name: "Churchs (Aldi)",
 			region: "Warwickshire",
 			country: "England"
 		},
@@ -1851,7 +1851,7 @@ exports.beers = [
 	},
 	{
 		id: 75,
-		name: "Belgium White",
+		name: "Belgian White",
 		brewery: {
 			name: "Shock Top",
 			region: "Missouri",
@@ -1895,7 +1895,7 @@ exports.beers = [
 		],
 		date: "9/3/2011",
 		style: "Traditional Ale",
-		description: "An ale with a surprisingly bright taste and a dry, chocolately finish",
+		description: "Born of a flood and centuries-old Belgian text, 1554 Enlightened Black Ale uses a light lager yeast strain and dark chocolaty malts to redefine what dark beer can be. Their first challenge was deciphering antiquated script and outdated units of measurement, but trial and error (and many months of in-house sampling) culminated in 1554, a highly quaffable dark beer with a moderate body and mouthfeel.",
 		favorite: true,
 		imageUrl: "./image/76"
 	},
@@ -1945,7 +1945,7 @@ exports.beers = [
 		],
 		date: "9/4/2011",
 		style: "Heller Bock",
-		description: "A moderately hopped beer with a rich, malty flavor",
+		description: "While most bocks are dark, Blonde Bock is golden-colored and malty with a rich, creamy head. The rich flavor is counterbalanced with just the right level of bitterness from the Hallertau aroma hops and create a very smooth profile.",
 		favorite: false,
 		imageUrl: "./image/78"
 	},
@@ -1970,7 +1970,7 @@ exports.beers = [
 		],
 		date: "9/5/2011",
 		style: "Brown Ale",
-		description: "A smooth, full-bodied nut brown ale, lightly hopped with a hint of roasted and crystal malts",
+		description: "A smooth, full-bodied nut brown ale, lightly hopped with a hint of roasted and crystal malts. This ale is dark in color without the heavy taste of porter or stout.",
 		favorite: true,
 		imageUrl: "./image/79"
 	},
@@ -2070,7 +2070,7 @@ exports.beers = [
 		],
 		date: "9/14/2011",
 		style: "Amber Ale",
-		description: "A beer with toasty, biscuit-like malt flavors coasting in equilibrium with hoppy freshness",
+		description: "Named in honor of our founder Jeff’s bike trip through Belgium, Fat Tire Amber Ale marks a turning point in the young electrical engineer’s home brewing. Fat Tire’s appeal quickly became evident. People liked everything about it. Except the name. Fat Tire won fans is in its sense of balance: toasty, biscuit-like malt flavors coasting in equilibrium with hoppy freshness.",
 		favorite: true,
 		imageUrl: "./image/83"
 	},
@@ -2220,7 +2220,7 @@ exports.beers = [
 		],
 		date: "10/8/2011",
 		style: "Classic German Pilsener",
-		description: "Trumer Pils' aromatic nose, vigorous carbonation, and dry finish will satisfy the most demanding palate",
+		description: "Trumer Pils is an exquisite pilsner brewed with dedication to craftmanship that is signature of its proven heritage. Trumer Pils’ aromatic nose, vigorous carbonation, and dry finish will satisfy the most demanding palate.",
 		favorite: false,
 		imageUrl: "./image/89"
 	},
@@ -2320,7 +2320,7 @@ exports.beers = [
 		],
 		date: "10/21/2011",
 		style: "Pale Lager",
-		description: "Crisp, clear and refreshing, Sapporo Premium Beer has been made to the highest standards of Japan's oldest brewery",
+		description: "Crisp, clear and refreshing, Sapporo Premium Beer has been made to the highest standards of Japans oldest brewery",
 		favorite: true,
 		imageUrl: "./image/93"
 	},
@@ -2395,7 +2395,7 @@ exports.beers = [
 		],
 		date: "10/31/2011",
 		style: "Abbey Dubbel",
-		description: "A beauty of a Belgian dubbel with six different malts and an authentic Belgian yeast strain that's happiest in a New Belgium globe glass",
+		description: "A beauty of a Belgian dubbel with six different malts and an authentic Belgian yeast strain thats happiest in a New Belgium globe glass",
 		favorite: true,
 		imageUrl: "./image/96"
 	},
@@ -2628,7 +2628,7 @@ exports.beers = [
 		id: 106,
 		name: "Guinness Black Lager",
 		brewery: {
-			name: "St. James's Gate",
+			name: "St. Jamess Gate",
 			region: "Dublin",
 			country: "Ireland"
 		},
@@ -2779,7 +2779,7 @@ exports.beers = [
 		name: "Grand Cru Winter Reserve",
 		brewery: {
 			name: "Flying Fish",
-			region: "Jersey",
+			region: "New Jersey",
 			country: "USA"
 		},
 		abv: 7.2,
@@ -2951,7 +2951,7 @@ exports.beers = [
 	},
 	{
 		id: 119,
-		name: "Trader Joe's Vintage Ale 2011",
+		name: "Trader Joes Vintage Ale 2011",
 		brewery: {
 			name: "Unibroue",
 			region: "Quebec",
@@ -2978,7 +2978,7 @@ exports.beers = [
 		id: 120,
 		name: "London Porter",
 		brewery: {
-			name: "Fuller's",
+			name: "Fullers",
 			region: "Surrey",
 			country: "England"
 		},
@@ -3026,7 +3026,7 @@ exports.beers = [
 	},
 	{
 		id: 122,
-		name: "Brekle's Brown",
+		name: "Brekles Brown",
 		brewery: {
 			name: "Anchor",
 			region: "California",
@@ -3101,7 +3101,7 @@ exports.beers = [
 	},
 	{
 		id: 125,
-		name: "Walker's Reserve",
+		name: "Walkers Reserve",
 		brewery: {
 			name: "Firestone Walker",
 			region: "California",
@@ -3195,7 +3195,7 @@ exports.beers = [
 		],
 		date: "6/8/2012",
 		style: "American Pale Ale",
-		description: "Originally brewed in 1975 to commemorate Paul Revere's ride, this brew is a heavily hopped ale (Cascade hops) with a copper color and a hoppy nose.",
+		description: "Originally brewed in 1975 to commemorate Paul Reveres ride, this brew is a heavily hopped ale (Cascade hops) with a copper color and a hoppy nose.",
 		favorite: false,
 		imageUrl: "./image/128"
 	},
@@ -3245,7 +3245,7 @@ exports.beers = [
 		],
 		date: "7/21/2012",
 		style: "Stout",
-		description: "Smooth and black, like the volcanic rock, Obsidian Stout is a solid, satisfying beer with a rich roasted-malt flavor. Obsidian Stout gets is inspiration from one of the world's largest obsidian flows at Newberry Volcano--just a few miles south of the brewery.",
+		description: "Smooth and black, like the volcanic rock, Obsidian Stout is a solid, satisfying beer with a rich roasted-malt flavor. Obsidian Stout gets is inspiration from one of the worlds largest obsidian flows at Newberry Volcano--just a few miles south of the brewery.",
 		favorite: true,
 		imageUrl: "./image/130"
 	},
@@ -3470,7 +3470,7 @@ exports.beers = [
 		],
 		date: "8/8/2012",
 		style: "Porter",
-		description: "Our Porter is based on a recipe from 1750. We bring you the original aromas and flavours of the beer that made London the world's brewing capital, flavours we know Washington would have loved.",
+		description: "Our Porter is based on a recipe from 1750. We bring you the original aromas and flavours of the beer that made London the worlds brewing capital, flavours we know Washington would have loved.",
 		favorite: true,
 		imageUrl: "./image/139"
 	},
@@ -3520,7 +3520,7 @@ exports.beers = [
 		],
 		date: "8/10/2012",
 		style: "Doppelbock",
-		description: "Celebrator has a creamy head of tight bubbles contrasting beautifully with its profound dark robe. It is full-bodied and velvety from half a year's aging. Although it is strong, it is not overpowering. There is a wonderful and complex balance between the various malts, the alcohol and the subtle hops.",
+		description: "Celebrator has a creamy head of tight bubbles contrasting beautifully with its profound dark robe. It is full-bodied and velvety from half a years aging. Although it is strong, it is not overpowering. There is a wonderful and complex balance between the various malts, the alcohol and the subtle hops.",
 		favorite: false,
 		imageUrl: "./image/141"
 	},
@@ -3751,7 +3751,7 @@ exports.beers = [
 	},
 	{
 		id: 151,
-		name: "Brewmaster's Select",
+		name: "Brewmasters Select",
 		brewery: {
 			name: "Asahi",
 			region: "Tokyo",
@@ -3795,7 +3795,7 @@ exports.beers = [
 		],
 		date: "10/20/2012",
 		style: "Stout",
-		description: "Chocolate malt and real dark chocolate are combined with Young's award winning rich, full flavoured dark beer to craft a satisfyingly indulgent, but never overly sweet experience.",
+		description: "Chocolate malt and real dark chocolate are combined with Youngs award winning rich, full flavoured dark beer to craft a satisfyingly indulgent, but never overly sweet experience.",
 		favorite: false,
 		imageUrl: "./image/152"
 	},
@@ -4520,7 +4520,7 @@ exports.beers = [
 		],
 		date: "4/27/2013",
 		style: "Abbey Tripel",
-		description: "This golden hued ale is marked by passion fruit and herbal notes in the aroma, with subtle suggestions of banana and honey surfacing from its deep and complex palate. The Tripel's finish is remarkably long and soothing.",
+		description: "This golden hued ale is marked by passion fruit and herbal notes in the aroma, with subtle suggestions of banana and honey surfacing from its deep and complex palate. The Tripels finish is remarkably long and soothing.",
 		favorite: true,
 		imageUrl: "./image/181"
 	},
@@ -4770,7 +4770,7 @@ exports.beers = [
 		],
 		date: "4/27/2013",
 		style: "Belgian Strong Ale",
-		description: "Belgian Ales represent the height of the brewers' art. Sophisticated brewing techniques, yeast blends and unique flavoring elements have elevated the beers of Belgium to the status enjoyed by wine in other countries. PranQster follows in this tradition using a mixed culture of antique yeast strains that results in a floral nose, a full fruity flavor and a clean finish.",
+		description: "Belgian Ales represent the height of the brewers art. Sophisticated brewing techniques, yeast blends and unique flavoring elements have elevated the beers of Belgium to the status enjoyed by wine in other countries. PranQster follows in this tradition using a mixed culture of antique yeast strains that results in a floral nose, a full fruity flavor and a clean finish.",
 		favorite: true,
 		imageUrl: "./image/191"
 	},
@@ -4876,9 +4876,9 @@ exports.beers = [
 	},
 	{
 		id: 196,
-		name: "Smithwick's Ale",
+		name: "Smithwicks Ale",
 		brewery: {
-			name: "Smithwick's",
+			name: "Smithwicks",
 			region: "Dublin",
 			country: "Ireland"
 		},
@@ -5326,7 +5326,7 @@ exports.beers = [
 	},
 	{
 		id: 214,
-		name: "Monty Python's Holy Grail",
+		name: "Monty Pythons Holy Grail",
 		brewery: {
 			name: "Black Sheep",
 			region: "New York",
@@ -5445,7 +5445,7 @@ exports.beers = [
 		],
 		date: "6/14/2013",
 		style: "Abt/Quadrupel",
-		description: "Three Philosophers is a unique blend of a Belgian-style dark ale and Liefmans Kriek, an authentic cherry ale from Belgium. Cherry chestnut in color, it's opaque but not cloudy with full carbonation topped by a smooth, tan head. Flavors and aromas of roasted malt, molasses and brown sugar, dark fruits, brandied raisins and chocolate, Three Philosophers has notable sweetness with low hop bitterness.",
+		description: "Three Philosophers is a unique blend of a Belgian-style dark ale and Liefmans Kriek, an authentic cherry ale from Belgium. Cherry chestnut in color, its opaque but not cloudy with full carbonation topped by a smooth, tan head. Flavors and aromas of roasted malt, molasses and brown sugar, dark fruits, brandied raisins and chocolate, Three Philosophers has notable sweetness with low hop bitterness.",
 		favorite: true,
 		imageUrl: "./image/218"
 	},
@@ -5476,7 +5476,7 @@ exports.beers = [
 	},
 	{
 		id: 220,
-		name: "Brother David's Triple",
+		name: "Brother Davids Triple",
 		brewery: {
 			name: "Anderson Valley",
 			region: "California",
@@ -5495,7 +5495,7 @@ exports.beers = [
 		],
 		date: "6/14/2013",
 		style: "Abbey Tripel",
-		description: "The brewers of Anderson Valley had to conjure the High Priestess of Fermentation to help them formulate and create this rare hand-crafted elixer. It is luxuriant, smooth, more that a little wild, and at 10% alcohol, it's bound to raise your spirits. Open the Bottle and greet the High Priestess. You are worthy.",
+		description: "The brewers of Anderson Valley had to conjure the High Priestess of Fermentation to help them formulate and create this rare hand-crafted elixer. It is luxuriant, smooth, more that a little wild, and at 10% alcohol, its bound to raise your spirits. Open the Bottle and greet the High Priestess. You are worthy.",
 		favorite: true,
 		imageUrl: "./image/220"
 	},
@@ -5851,7 +5851,7 @@ exports.beers = [
 	},
 	{
 		id: 235,
-		name: "Mermaid's Red",
+		name: "Mermaids Red",
 		brewery: {
 			name: "Coronado",
 			region: "California",
@@ -5870,7 +5870,7 @@ exports.beers = [
 		],
 		date: "7/22/2013",
 		style: "Amber Ale",
-		description: "Mermaid's Red bucks the shallow mid-range red all stereotype. Loaded with Cascade hops, it delivers a fresh floral aroma and sharp bitter notes, all while delivering a solid kick of roasted malts that fades seamlessly into a rich, chocolaty finish with hints of clove and caramel.",
+		description: "Mermaids Red bucks the shallow mid-range red all stereotype. Loaded with Cascade hops, it delivers a fresh floral aroma and sharp bitter notes, all while delivering a solid kick of roasted malts that fades seamlessly into a rich, chocolaty finish with hints of clove and caramel.",
 		favorite: true,
 		imageUrl: "./image/235"
 	},
@@ -5901,7 +5901,7 @@ exports.beers = [
 	},
 	{
 		id: 237,
-		name: "Class of '88 Imperial Smoked Porter",
+		name: "Class of 88 Imperial Smoked Porter",
 		brewery: {
 			name: "Deschutes",
 			region: "Oregon",
@@ -6548,5 +6548,480 @@ exports.beers = [
 		description: "Rumor is some monks love these hops and being surrounded by budding yellow aromas and the leafy pungent fields inspires them. Since we weren’t sensible enough to locate our brewery near hop fields, we can only offer this blond ale in celebration of our Abbey brethren and their steadfast Devotion.",
 		favorite: false,
 		imageUrl: "./image/262"
+	},
+	{
+		id: 263,
+		name: "Kirin",
+		brewery: {
+			name: "Kirin",
+			region: "Tokyo",
+			country: "Japan"
+		},
+		abv: 4.9,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 2
+			},
+			{
+				name: "Valerie",
+				rating: 3
+			}
+		],
+		date: "10/12/2013",
+		style: "Pale Lager",
+		description: "Finest barley malt, premium hops, smooth finish, no bitter aftertaste.",
+		favorite: false,
+		imageUrl: "./image/263"
+	},
+	{
+		id: 264,
+		name: "Cool Beanz Coffee Porter",
+		brewery: {
+			name: "Palo Alto",
+			region: "California",
+			country: "USA"
+		},
+		abv: 6,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 3
+			}
+		],
+		date: "10/12/2013",
+		style: "Porter",
+		description: "Cool Beanz Coffee Porter is a easy drinking porter with a balanced yet notably coffee focused beer. We brew this beer with our local Coffee Roaster Philz Coffee. The Philz roast we use, Philtered Soul, is roasted with hazelnuts and lends a nice nutty roundness to the beer",
+		favorite: false,
+		imageUrl: "./image/264"
+	},
+	{
+		id: 265,
+		name: "Victory at Sea",
+		brewery: {
+			name: "Ballast Point",
+			region: "California",
+			country: "USA"
+		},
+		abv: 10,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 3
+			}
+		],
+		date: "10/12/2013",
+		style: "Imperial/Strong Porter",
+		description: "Victory at Sea embodies the art of masterful brewing by infusing a velvety Imperial Porter with pure vanilla flavor and specially-selected, hand roasted coffee. The addition of cold brewed coffee to the beer lends a subtle roasted flavor to this robust imperial porter, blending perfectly with rich vanilla and caramel undertones.",
+		favorite: false,
+		imageUrl: "./image/265"
+	},
+	{
+		id: 266,
+		name: "Arctic Rhino Coffee Porter",
+		brewery: {
+			name: "Midnight Sun",
+			region: "Alaska",
+			country: "USA"
+		},
+		abv: 5,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 2
+			},
+			{
+				name: "Valerie",
+				rating: 2
+			}
+		],
+		date: "10/13/2013",
+		style: "Porter",
+		description: "Arctic Rhino Coffee Porter combines two quintessential Pacific Northwest favorites: coffee and ale. The result is wonderfully romantic and robust--a duel-fueled porter that melds charismatic dark malt with freshly roasted coffee beans.",
+		favorite: false,
+		imageUrl: "./image/266"
+	},
+	{
+		id: 267,
+		name: "Blue Ridge Coffee Stout",
+		brewery: {
+			name: "Coronado",
+			region: "California",
+			country: "USA"
+		},
+		abv: 5.4,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 4
+			}
+		],
+		date: "10/17/2013",
+		style: "Stout",
+		description: "Just as the iconic Coronado Bay Bridge connects our island home to the mainland, this java-tinged dry stout, brewed using dark roasted coffee beans from a local San Diego artisanal roaster, provides a bridge uniting craft beer drinkers with CBC’s rich, flavorful SoCal brewing traditions.",
+		favorite: true,
+		imageUrl: "./image/267"
+	},
+	{
+		id: 268,
+		name: "Nut Brown English-Style Ale",
+		brewery: {
+			name: "AleSmith",
+			region: "California",
+			country: "USA"
+		},
+		abv: 5,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 3
+			}
+		],
+		date: "10/20/2013",
+		style: "Brown Ale",
+		description: "Deep brown but still translucent with a rich, chestnut to ruby hue. Its brilliant clarity and fine white foam make it almost as appealing to view as to drink. Rich malty flavor balanced by a slight dryness provided by chocolate malt. The hops are subdued but present enough to keep the beer from being too sweet.",
+		favorite: false,
+		imageUrl: "./image/268"
+	},
+	{
+		id: 269,
+		name: "Hop Ottin IPA",
+		brewery: {
+			name: "Anderson Valley",
+			region: "California",
+			country: "USA"
+		},
+		abv: 7,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 4
+			},
+			{
+				name: "Valerie",
+				rating: 2
+			}
+		],
+		date: "10/27/2013",
+		style: "India Pale Ale",
+		description: "Hop-Heads, your dreams have come true! Hop Ottin is Boontling for hardworking hops, and theyre surely hard at work in this brew. Hop Ottin starts with a strong floral aroma, which winds into a deep and complex body. In an intriguing balance, honey-drenched malts coat rich hop undertones. At length, the hops prevail, with a satisfyingly crisp finish.",
+		favorite: true,
+		imageUrl: "./image/269"
+	},
+	{
+		id: 270,
+		name: "Weihenstephaner Vitus",
+		brewery: {
+			name: "Bayerische Staatsbrauerei Weihenstephan",
+			region: "Freising",
+			country: "Germany"
+		},
+		abv: 7.7,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 2
+			},
+			{
+				name: "Valerie",
+				rating: 2
+			}
+		],
+		date: "10/30/2013",
+		style: "Weizen Bock",
+		description: "A light-coloured, spicy single-bock wheat beer, for both beer lovers and the beer connoisseur. Extra long and cold storage in our monastery cellars makes this single-bock a really special beer with full body and a distinctively great mouthfeel. Prost!",
+		favorite: false,
+		imageUrl: "./image/270"
+	},
+	{
+		id: 271,
+		name: "Hennepin",
+		brewery: {
+			name: "Ommegang",
+			region: "New York",
+			country: "USA"
+		},
+		abv: 7.7,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 3
+			}
+		],
+		date: "11/4/2013",
+		style: "Saison",
+		description: "This hoppy, farmhouse style ale has a champagne like effervescence with a crisp but light on the tongue finish. Similar to the Belgian Saison style , this beer serves well as an aperitif. Hennepin has a majestic golden hue. The style is called Grisette or farm house and is considered to be in the domain of the Belgian Saisons.",
+		favorite: false,
+		imageUrl: "./image/271"
+	},
+	{
+		id: 272,
+		name: "Hop Stoopid Ale",
+		brewery: {
+			name: "Lagunitas",
+			region: "California",
+			country: "USA"
+		},
+		abv: 8,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 4
+			},
+			{
+				name: "Valerie",
+				rating: 0
+			}
+		],
+		date: "11/9/2013",
+		style: "Imperial/Double IPA",
+		description: "For those mornings when you have to cut right to the chase, this is the one. Sure to blast through just about anything still lingering from the night before, this mouthful of Hops and huge rich Malt has a gaurantee built right into the name!",
+		favorite: true,
+		imageUrl: "./image/272"
+	},
+	{
+		id: 273,
+		name: "Accumulation",
+		brewery: {
+			name: "New Belgium",
+			region: "Colorado",
+			country: "USA"
+		},
+		abv: 6.2,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 2
+			}
+		],
+		date: "11/9/2013",
+		style: "India Pale Ale",
+		description: "Accumulation White IPA was inspired by the white beauty that falls each winter from our Colorado sky. Flurries of Mosaic and Amarillo hops bring soft fruit and citrus flavor, followed by a layer of bitter. Piled high in IBUs, Accumulation will make your winter brighter.",
+		favorite: false,
+		imageUrl: "./image/273"
+	},
+	{
+		id: 274,
+		name: "Warewolf",
+		brewery: {
+			name: "Newcastle Federation",
+			region: "Edinburgh",
+			country: "Scotland"
+		},
+		abv: 4.5,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 2
+			},
+			{
+				name: "Valerie",
+				rating: 0
+			}
+		],
+		date: "11/17/2013",
+		style: "Premium Bitter/ESB",
+		description: "What better way to toast the fall than to have a bottle of this formidable, dual character brew. At first smooth with mellow overtones of sweet berry fruit, a bite of bitterness suddenly cuts through, long, deep and lingering. Brewed with Rye Malt, it is naturally blood red in colour. Unlike the mythical wolf-like creature said to roam the bleak moorland surrounding Newcastle, this is real, so consider yourself warned!",
+		favorite: false,
+		imageUrl: "./image/274"
+	},
+	{
+		id: 275,
+		name: "OctoberfFish",
+		brewery: {
+			name: "Flying Fish",
+			region: "New Jersey",
+			country: "USA"
+		},
+		abv: 6,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 3
+			}
+		],
+		date: "11/20/2013",
+		style: "Altbier",
+		description: "A tribute to the classic Fest styles of Germany the O’Fish uses European malts hops and yeast. A beautiful reddish color, a savory malt profile and nice hop flavor, make this Fest beer quite drinkable. OktoberFish is great with food and especially great with Lederhosen.",
+		favorite: false,
+		imageUrl: "./image/275"
+	},
+	{
+		id: 276,
+		name: "Saigon Export",
+		brewery: {
+			name: "Sabeco",
+			region: "Saigon",
+			country: "Vietnam"
+		},
+		abv: 4.9,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 2
+			},
+			{
+				name: "Valerie",
+				rating: 2
+			}
+		],
+		date: "11/24/2013",
+		style: "Pale Lager",
+		description: "",
+		favorite: false,
+		imageUrl: "./image/276"
+	},
+	{
+		id: 277,
+		name: "Narwhal",
+		brewery: {
+			name: "Sierra Nevada",
+			region: "California",
+			country: "USA"
+		},
+		abv: 10.2,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 4
+			},
+			{
+				name: "Valerie",
+				rating: 5
+			}
+		],
+		date: "11/27/2013",
+		style: "Imperial Stout",
+		description: "This malt-forward monster is bold – with notes of baker’s cocoa, molasses, and dark roasted coffee. This massive imperial stout is incredibly complex, rich, and intense and will develop in the bottle for years to come.",
+		favorite: true,
+		imageUrl: "./image/277"
+	},
+	{
+		id: 278,
+		name: "The Great Impression Stock Ale",
+		brewery: {
+			name: "Dust Bowl",
+			region: "California",
+			country: "USA"
+		},
+		abv: 11.4,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 4
+			},
+			{
+				name: "Valerie",
+				rating: 4
+			}
+		],
+		date: "11/29/2013",
+		style: "Old Ale",
+		description: "Stock ales are brewed at a higher gravity to hold up to extended aging. British hops take a back seat in this ale and provide subtle hop notes and just enough bitterness to support a malt showcase. While fresh, the beer presents with balancing bitterness, but is still dominated by the malt character. Over time, the bitterness subsides and new flavors are created during the aging process",
+		favorite: true,
+		imageUrl: "./image/278"
+	},
+	{
+		id: 279,
+		name: "Chocolate Porter",
+		brewery: {
+			name: "Hangar 24",
+			region: "California",
+			country: "USA"
+		},
+		abv: 8,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 3
+			}
+		],
+		date: "11/29/2013",
+		style: "Imperial/Strong Porter",
+		description: "Rich and decadent. This strong porter is perfect for sipping at the end of the day or to accompany full-flavored foods. The intense, roasty flavor comes from two types of chocolate malt and raw cocoa nibs. Whole vanilla beans introduced post fermentation add complexity and enhance the dessert-like qualities of this full bodied beer. Indulge yourself!",
+		favorite: false,
+		imageUrl: "./image/279"
+	},
+	{
+		id: 280,
+		name: "Wee Heavy",
+		brewery: {
+			name: "Belhaven",
+			region: "East Lothian",
+			country: "Scotland"
+		},
+		abv: 6.5,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 2
+			}
+		],
+		date: "11/29/2013",
+		style: "Scotch Ale",
+		description: "Belhaven Wee Heavy has a rich deep flavor. A beer to be sipped, savoured and fully respected.",
+		favorite: false,
+		imageUrl: "./image/280"
+	},
+	{
+		id: 281,
+		name: "Big Daddy IPA",
+		brewery: {
+			name: "Speakeasy Ales & Lagers",
+			region: "California",
+			country: "USA"
+		},
+		abv: 6.5,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 2
+			}
+		],
+		date: "12/7/2013",
+		style: "India Pale Ale",
+		description: "No lightweight, Big Daddy I.P.A. tips the scales with a huge hop flavor and a dry, clean finish that leaves the scene without a trace.",
+		favorite: false,
+		imageUrl: "./image/281"
 	}
 ];
