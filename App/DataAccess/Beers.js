@@ -5219,7 +5219,7 @@ exports.beers = [
 			}
 		],
 		date: "5/30/2013",
-		style: "Czech Pilsner/Sv?tlý",
+		style: "Czech Pilsner",
 		description: "Czechvar is the special name (editor’s note: for North America) of the world famous beer produced by the renowned brewery in Ceske Budejovice, Czech Republic. Benefitting from over 700 years of brewing experience of the South Bohemian region, Czechvar is the golden original, acknowledged by many connoisseurs as one of the best lagers in the world.",
 		favorite: false,
 		imageUrl: "./image/209"
@@ -6361,7 +6361,7 @@ exports.beers = [
 		ratings: [
 			{
 				name: "Jason",
-				rating: 0
+				rating: 2
 			},
 			{
 				name: "Valerie",
@@ -6386,7 +6386,7 @@ exports.beers = [
 		ratings: [
 			{
 				name: "Jason",
-				rating: 0
+				rating: 2
 			},
 			{
 				name: "Valerie",
@@ -7011,7 +7011,7 @@ exports.beers = [
 		ratings: [
 			{
 				name: "Jason",
-				rating: 3
+				rating: 2
 			},
 			{
 				name: "Valerie",
@@ -7023,5 +7023,330 @@ exports.beers = [
 		description: "No lightweight, Big Daddy I.P.A. tips the scales with a huge hop flavor and a dry, clean finish that leaves the scene without a trace.",
 		favorite: false,
 		imageUrl: "./image/281"
+	},
+	{
+		id: 282,
+		name: "Organic Chocolate Stout",
+		brewery: {
+			name: "Bison",
+			region: "California",
+			country: "USA"
+		},
+		abv: 6.1,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 2
+			},
+			{
+				name: "Valerie",
+				rating: 2
+			}
+		],
+		date: "12/25/2013",
+		style: "Stout",
+		description: "A richly textured and roasty stout with a boost of bitter and charismatic flavor from the addition of fine dutch cocoa in the mash.",
+		favorite: false,
+		imageUrl: "./image/282"
+	},
+	{
+		id: 283,
+		name: "Butchertown Black Ale",
+		brewery: {
+			name: "Speakeasy Ales & Lagers",
+			region: "California",
+			country: "USA"
+		},
+		abv: 8.2,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 2
+			},
+			{
+				name: "Valerie",
+				rating: 2
+			}
+		],
+		date: "12/25/2013",
+		style: "Black IPA",
+		description: "The beer is a play on the senses: black as night, but with a deceivingly lighter body than the color would indicate and a dry-hopping regiment more akin to an IPA than a stout or porter.",
+		favorite: false,
+		imageUrl: "./image/283"
+	},
+	{
+		id: 284,
+		name: "Double Stout",
+		brewery: {
+			name: "Green Flash",
+			region: "California",
+			country: "USA"
+		},
+		abv: 8.8,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 3
+			}
+		],
+		date: "12/26/2013",
+		style: "Foreign Stout",
+		description: "Golden naked oats mashed with dark crystal and robust roasted malts create a luscious black brew with a satin smooth finish. Layering UK Target hops in the boil adds a pleasant, earthy complexity while higher fermentation temperatures enhance the overall flavor with fruity esters. An old-world style, done the Green Flash way. Big, bold, flavorful and complex – Double Stout.",
+		favorite: false,
+		imageUrl: "./image/284"
+	},
+	{
+		id: 285,
+		name: "Organic Chocolate Stout",
+		brewery: {
+			name: "Samuel Smith",
+			region: "Yorkshire",
+			country: "England"
+		},
+		abv: 5,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 4
+			},
+			{
+				name: "Valerie",
+				rating: 3
+			}
+		],
+		date: "12/28/2013",
+		style: "Sweet Stout",
+		description: "Brewed with well water (the original well, sunk in 1758, is still in use with the hard well water being drawn from 85 feet underground), the gently roasted organic cocoa extract impart a delicious, smooth and creamy character, with inviting deep flavours and a delightful finish - this is a marriage of satisfying stout and luxurious chocolate.",
+		favorite: true,
+		imageUrl: "./image/285"
+	},
+	{
+		id: 286,
+		name: "Double Bock",
+		brewery: {
+			name: "Primator",
+			region: "Nachod",
+			country: "Czech Republic"
+		},
+		abv: 10.5,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 1
+			},
+			{
+				name: "Valerie",
+				rating: 1
+			}
+		],
+		date: "1/16/2014",
+		style: "Doppelbock",
+		description: "Beer with distinct and sweet taste of malt aroma gradating into smooth bitterness.",
+		favorite: false,
+		imageUrl: "./image/286"
+	},
+	{
+		id: 287,
+		name: "Pils",
+		brewery: {
+			name: "Lagunitas",
+			region: "California",
+			country: "USA"
+		},
+		abv: 6,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 2
+			},
+			{
+				name: "Valerie",
+				rating: 2
+			}
+		],
+		date: "1/18/2014",
+		style: "Czech Pilsner",
+		description: "While an ale might steal your car or try to date your daughter and keep her out all night for who-knows-what purpose, a well bred lager would offer to clean your house while you’re on vacation and leave fresh scones and coffee for you when you return. Now, don’t get us wrong, ales can be a lot of fun to hang out with when you’re in the right mood, and if you have bail money on you. But what’s wrong with livin’ uptown from time to time, on a nice street, where the doormen all wear those little uniforms, the air smells of flowers, and lagers rule the Earth. Cheers!",
+		favorite: false,
+		imageUrl: "./image/287"
+	},
+	{
+		id: 288,
+		name: "Smoked Porter with Vanilla Beans",
+		brewery: {
+			name: "Stone",
+			region: "California",
+			country: "USA"
+		},
+		abv: 5.9,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 1
+			},
+			{
+				name: "Valerie",
+				rating: 3
+			}
+		],
+		date: "1/30/2014",
+		style: "Porter",
+		description: "Stone Smoked Porter with Vanilla Beans Added.",
+		favorite: false,
+		imageUrl: "./image/288"
+	},
+	{
+		id: 289,
+		name: "Dead Guy Ale",
+		brewery: {
+			name: "Rogue",
+			region: "Oregon",
+			country: "USA"
+		},
+		abv: 6.6,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 4
+			},
+			{
+				name: "Valerie",
+				rating: 4
+			}
+		],
+		date: "2/1/2014",
+		style: "Heller Bock",
+		description: "Dead Guy is a German-style Maibock made with Rogue’s proprietary PacMan ale yeast. It is deep honey in color with a malty aroma, rich hearty flavor and a well balanced finish. Dead Guy is created from Northwest Harrington, Klages, Maier Munich and Carastan malts, along with Perle and Saaz Hops. ",
+		favorite: true,
+		imageUrl: "./image/289"
+	},
+	{
+		id: 290,
+		name: "Winter Solstice",
+		brewery: {
+			name: "Anderson Valley",
+			region: "California",
+			country: "USA"
+		},
+		abv: 6.9,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 2
+			},
+			{
+				name: "Valerie",
+				rating: 1
+			}
+		],
+		date: "2/12/2014",
+		style: "Spice/Herb/Vegatable",
+		description: "Each year, when people are starting to unpack their winter clothes and replenish their firewood, our tiny brewery in the coastal redwoods of Northern California makes seasonal preparations of a different kind. As the cold arrives, we release a unique beverage created to add warmth to even the coldest and darkest of winters days. Winter Solstice Seasonal Ale begins with a very high original gravity to create a hearty and spicy brew with a deep amber hue and a smooth finish.",
+		favorite: false,
+		imageUrl: "./image/290"
+	},
+	{
+		id: 291,
+		name: "Audition Off-Kilter Scotch Ale",
+		brewery: {
+			name: "Sierra Nevada",
+			region: "California",
+			country: "USA"
+		},
+		abv: 8.6,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 4
+			},
+			{
+				name: "Valerie",
+				rating: 0
+			}
+		],
+		date: "3/1/2014",
+		style: "Scotch Ale",
+		description: "Sierra nevada is a brewery that has long been famous for its liberal use of hops. Off-Kilter Scotch Ale proves once and for all that we can do malt too. This beer is a malt-bomb in a hop-heads world! This mahogany-colored beer has notes of caramel, raisin, light smoke, molasses and chocolate- which showcase the range of malt flavors. Rich, roasty, and rounded, this Scottish Ale is a perfect sipping beer after a day on the misty Highland Moors or the foothills of the Sierras. ",
+		favorite: true,
+		imageUrl: "./image/291"
+	},
+	{
+		id: 292,
+		name: "Snapshot",
+		brewery: {
+			name: "New Belgium",
+			region: "Colorado",
+			country: "USA"
+		},
+		abv: 5,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 0
+			}
+		],
+		date: "3/1/2014",
+		style: "Wheat Ale",
+		description: "Snap! You Just captured an unfiltered wheat beer full of refreshment and a smile-inducing flash of tart at the finish.",
+		favorite: false,
+		imageUrl: "./image/292"
+	},
+	{
+		id: 293,
+		name: "Torpedo Extra IPA",
+		brewery: {
+			name: "Sierra Nevada",
+			region: "California",
+			country: "USA"
+		},
+		abv: 7.2,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 3
+			},
+			{
+				name: "Valerie",
+				rating: 2
+			}
+		],
+		date: "3/7/2014",
+		style: "India Pale Ale",
+		description: "Torpedo is an assertive American IPA deep reddish-gold in color, with a smooth and bready malt presence and over-the-top hop aromas. The beer has a solid bitterness and a massive hop flavor, yet remains easy drinking with a pleasant dry finish. ",
+		favorite: false,
+		imageUrl: "./image/293"
+	},
+	{
+		id: 294,
+		name: "New DogTown Pale Ale",
+		brewery: {
+			name: "Lagunitas",
+			region: "California",
+			country: "USA"
+		},
+		abv: 6.2,
+		ratings: [
+			{
+				name: "Jason",
+				rating: 2
+			},
+			{
+				name: "Valerie",
+				rating: 2
+			}
+		],
+		date: "3/9/2014",
+		style: "American Pale Ale",
+		description: "This is not the original Pale Ale as brewed in far away 1993 in the back of the Old House of Richards Building in West Marin hamlet of Forest Knolls right next to little Lagunitas. It is way better. Back then the beer tasted like broccoli and kerosene and the carbonation ate right through and drained your stomach into your gut...",
+		favorite: false,
+		imageUrl: "./image/294"
 	}
 ];
